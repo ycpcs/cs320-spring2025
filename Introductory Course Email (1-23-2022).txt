@@ -1,0 +1,24 @@
+Greetings and welcome back (soon) to KEC for Spring 2024.
+
+I am in the process of putting the finishing touches on the CS320 course website for Spring 2024 for sections 101 and 102.  As such, there are some things I suggest you take a look at in advance of the first day of class, which is this Friday, 1-26-2024 in KEC 119.
+
+Here is the URL for the CS320 Course Website
+
+   ycpcs.github.io/cs320-spring2024
+
+The entire schedule for the course is posted on the website, along with all of the lectures, labs, and assignments.  We will be using the CS320 course website extensively throughout the semester.  Please take a look at the Calendar page, which details EVERYTHING that you will be expected to do this semester.  We will be following that Calendar VERY closely, and I will be enforcing strict deadlines on all of the labs and assignments.
+
+1) You will be learning how to use ChatGPT 3.5 to assist you with self-learning.  Self-learning is a major (the MAJOR) skill that you will acquire from this course, and we will be fostering that skille from the very start of the course.  You will be required to create a free ChatGPT 3.5 account - see Lab00 for details.  You will be using ChatGPT 3.5 to assist in creating your HTML/CSS Resume - while also serving as your one-on-one tutor for learning HTML/CSS.
+
+2) You will be specifying, designing, and developing a semester-long team-based project (which will take the form of a client-server web application), which is Assignment 1 on the course website.  As such, you will need to create/join a team of 3-4 students from your section of CS320.  This means that there will only be 3 teams in each section.  You will not have to officially define this team until the due date of the Team Project Proposal - but we highly suggest that you start working on identifying your team members before then.  You will find the current class rosters, with email addresses, attached to this email.  Your team must be comprised of students only from your section.  Please see me if that policy presents a hardship for you, I may be able to make accommodations if you present a compelling enough argument...  :-)  I expect that you and your team will be using ChatGPT extensively for your team project.  I will be posting a selected list of team projects on the course website.
+
+3) You will also be doing an Individual Project of your own choosing, which is Assignment 2 on the course website.  This will be a self-learning experience, where you will pick some new (to you) skill/tool/technology and then design and implement a project in that area, researching, designing, and developing it on your own.  You should give consideration to what you want to do for that assignment.  Suggestions for projects are given in Assignment 2, but you can choose your own ideas, if you want.  I expect that you will be using ChatGPT extensively for your individual project.  I will be posting a list of suggested individual projects on the course website, but you are welcome to propose your own project.
+
+4) We will be using the Eclipse IDE with Java for the labs, example projects, and the team projects.  Some of you already have experience with Eclipse through CS201 from Spring 2021, while those who took CS201 since then have been working with the IntelliJ IDE.  Installation instructions for Java and Eclipse will be posted to the course website in the next couple of days.  They are easy to install - but we will be using specific versions of Eclipse (2020-06) and Java jdk-1.8.0_301.  Those are the versions that were installed in KEC123 for Fall 2021.  Therefore, if you decide to download and install Eclipse and Java, please make sure to install those versions, as the CS320 course lab assignments might not work reliably with later (newer) versions of Java and Eclipse.
+
+5) We will also be using a combination of YCP Marmoset and Shared Google Docs for submissions.  Please verify that you can connect to Marmoset.  Some of you do not have a Marmoset account - I have created them, and will be sending out your initial passwords.  There is a link to Marmoset on the CS320 Website.  Your login is your YCP username (without the @ycp.edu).
+
+
+I am truly looking forward to meeting all of you in class on Friday (tomorrow)...  :-)
+
+Professor Hake

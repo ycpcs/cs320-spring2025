@@ -3,45 +3,39 @@ layout: default
 title: Home Page
 ---
 
-# Welcome to Software Engineering, Spring 2024!
+# Welcome to Software Engineering, Spring 2025!
 
-This is the website for Professor Hake's sections of CS 320, Spring 2024 at York College.  **All information about Professor Hake's sections of CS320 will be posted here.**
+This is the website for CS 320, Spring 2025 at York College.  **All information about both sections of CS320 will be posted here.**
 
-- CS320-101: M-W-F 10:00a to 10:50a in KEC 119 (Hake)
+- CS320-101: M-W-F 2:00p to 2:50p in KEC 119 (Hake)
  
-- CS320-102: M-W-F  1:00p to  1:50p in KEC 119 (Hake)
+- CS320-102: M-W-F 3:00p to 3:50p in KEC 119 (Babcock)
 
-**NOTE:** For anyone who is in Professor Zeller's section:
-
-- CS320-103: M-W-F  2:00p to  2:50p in KEC 119 (Zeller)
-
-Please contact him at <dzeller@ycp.edu> for details about his section of CS320, as Professor Hake and Professor Zeller will be taking different approaches for teaching CS320 this coming semester.
 
 <!-- Commenting out until it's needed next year
+-->
 
 # WEBSITE UNDER CONSTRUCTION.
 
-As such, some of the links below could return 404 Page Not Found Errors.  Professor Hake will be developing the course website over Semester Break.  If you would like to see what the organization and content of a previous CS320 class looked like (and what you are getting yourself into), go to [CS320-Spring2024](https://ycpcs.github.io/cs320-spring2024).  The Spring 2025 CS320 course will be somewhat different, but will contain all of the content, labs, assignments, projects, and expected outcomes from the Spring 2024 course.
--->
+As such, some of the links below could return 404 Page Not Found Errors.  We will will be developing the course website over Semester Break.  If you would like to see what the organization and content of a previous CS320 class looked like (and what you are getting yourself into), go to [CS320-Spring2024](https://ycpcs.github.io/cs320-spring2024).  The Spring 2025 CS320 course will be somewhat different, but will contain all of the content, labs, assignments, projects, and expected outcomes from the Spring 2024 course.
+
 
 ## Links
 
 * [Syllabus](syllabus.html)
 * [Schedule](schedule.html)
-* [Calendar](CS320-Spring2024Calendar.pdf)
+* [Calendar](CS320-Spring2025Calendar.pdf)
 * [Project Teams and Rosters](teams-and-rosters/index.html)
 * [Assignments](assign/index.html)
 * [Labs](labs/index.html)
 * [Projects](projects/index.html)
-* [Tutoring](CS320-Sp24-TutoringSchedule.pdf)
+* [Tutoring](CS320-Sp25-TutoringSchedule.pdf)
 * [Resources](resources/index.html)
 * [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
 
 ## News
 
 <!-- Commenting out News until it's needed - and the dates will change, anyway
--->
-
 
 * **Apr 26** - [Assignment 8](assign/assign08.html) describes the final deliverables for the team project.  There are several - please read the assignment carefully.  The team project final report is **due by Noon, Thursday, 5-9-24 in PDF form in Marmoset**.  Please have only one team member submit the report.
 
@@ -50,12 +44,6 @@ As such, some of the links below could return 404 Page Not Found Errors.  Profes
 	- **1:00p section (102) - 12:45p to 2:45p on Wednesday, 5-8-24**
 
 * **Apr 22** - [Assignment 10](assign/assign10.html) is an individual reflection on the team project.  [Assignment 11](assign/assign11.html) is the final self/peer evaluation for the team project.  They are both INDIVIDUAL assignments, combined into one form, and are **due by noon, Sunday, 4-28-24 in PDF form in Marmoset**.
-
-<!-- Commenting out the Exam for this year
-
-* **Apr 7** - The **midterm exam** will be a take-at-home exam that I will hand out in class on **Wednesday, 4-24-24**.  You will turn it back in to me at the beginning of your class period on **Friday, 4-26-24**.  There is NO Programming portion, it is all written.  You will also need to create a UML diagram (either using a drawing package, or a NEATLY hand-drawn diagram).  The exam will be open notes and you can use any resource on the CS320 website (**EXCEPT FOR CHATGPT OR ANY OTHER SIMILAR LLM AI**), as well as your assignment and lab solutions.  The exam is 120 points, and was originally designed to be an in-class 50-minute exam, with a built-in curve of 20 points.  Since this is now a take home exam, there is no practice exam posted, nor will there be a review for the exam.  Taking the exam at home IS the review.   **YOU MUST DO YOUR OWN WORK - YOU ARE NOT ALLOWED TO CONSULT WITH ANYONE ELSE, OR USE ANY RESOURCES THAT ARE NOT LISTED ON THE RESOURCES PAGE OF THE CS320 WEBSITE.  I AM TRUSTING YOU TO WORK ON YOUR HONOR - PLEASE DO NOT BETRAY THAT TRUST.**
-
--->
 
 * **Apr 7** - [Team Project Milestone 3: 75% Working System, w/SQL DB](assign/assign03.html) is **due Monday, 4-22-24**.  This will be a FORMAL 12-14 minute (max) team presentation/demonstration of your team's progress since milestone 2.  SQL database functionality **IS REQUIRED** for this milestone.  A large majority of your classes, methods, test cases, and web page navigation should be implemented by milestone 3, as well.  If you do not have substantial test case coverage, your team will receive a Below Expectations assessment.
 
@@ -125,15 +113,16 @@ As such, some of the links below could return 404 Page Not Found Errors.  Profes
 * **Jan 26** - [Assign02: Individual Project Proposal](assign/assign02.html) is posted and is **due by Noon, Saturday, 2-10-24**. 
 * **Jan 26** - [Lab01: HTML/CSS Resume](labs/lab01.html) is posted and is **due by Noon, Sunday, 2-4-24**.
 
+-->
 
-* **Jan 26** - [CS320 Preparation Exam](./CS320-Sp24-Prep-Exam.txt) is **due before class, Monday, 1-29-24**.  Download/copy the "exam" document and follow the instructions in the document.  Fill your answers directly into the document and submit it to the CS320 Preparation Exam project under CS320, Spring 2024 on Marmoset.
+* **Jan 27** - [CS320 Preparation Exam](./CS320-Sp25-Prep-Exam.txt) is **due before class, Wednesday, 1-29-25**.  Download/copy the "exam" document and follow the instructions in the document.  Fill your answers directly into the document and submit it to the CS320 Preparation Exam project under CS320, Spring 2025 on Marmoset.
 
-* **Jan 26** - Please verify that you can access your Marmoset account for CS320-Sp24.  We will be using Marmoset for several submissions.  If you forgot your password, please email me and I will generate a new one for you.
+* **Jan 27** - Please verify that you can access your Marmoset account for CS320-Sp25.  We will be using Marmoset for several submissions.  If you forgot your password, please email me and I will generate a new one for you.
 
-* **Jan 26** - Welcome back to KEC and the most **FUN** you've ever had in a CS course.
+* **Jan 27** - Welcome back to KEC and the most **FUN** you've ever had in a CS course.
 
 * **AND** where you'll discover just how much **WORK** having that much **FUN** will be...!
 
 * **AND** where you'll also discover just how much **FUN** doing that much **WORK** will be...!
 
-* **AND** where you'll also discover **(rather quickly)** that Professor Hake has a rather warped sense of **FUN**...  :-)
+* **AND** where you'll also discover **(rather quickly)** that Professors Hake and Babcock have rather warped senses of **FUN**...  :-)

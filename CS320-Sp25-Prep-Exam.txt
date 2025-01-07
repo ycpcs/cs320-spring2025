@@ -1,0 +1,146 @@
+CS320 Spring 2025 Preparation Exam
+
+Name:  
+
+Section: 
+	
+CS320 is a VERY fast-paced course and assumes that you have gained (and retained) a broad functional knowledge of object-oriented programming with Java from CS201.  There will be NO review of OOP Java in CS320 - rather we will jump right into reading and modifying some rather complicated code from applications with which you are probably unfamiliar.  There will also be a significant amount of self-learning involved - combined with a fair amount of stress, anxiety, and frustration, and a GREAT deal of time.
+
+This "exam" is meant to inform me (and you) about your preparedness for CS320. I will review all of your answers, but this exercise does NOT factor into you course grade.  However, I will use the results to possibly recommend which team project(s) you should (or should not) consider tackling.  I do not expect that you will be able to answer all of the questions - this exercise is intentionally HARD.
+
+Also, most of you will be applying for, interviewing for, and going out on your first co-ops and internships this coming Summer.  As part of that interview process, it is normal for the interviewer(s) to ask problem-solving and programming questions such as the ones that are in this "exam".  Being able to answer these types of questions - even just describing your thinking process so that the interviewers can observe how you tackle problems - is an integral part of success in an interview.
+
+Spend as much (or as little) time as you want on each question (and on the entire exam - it does NOT count toward your course grade), but do NOT leave any answers blank.  If you cannot supply an actual answer, you must copy and paste one of the following responses into the answer:
+
+   a) You never had to implement this type of problem in CS201
+   b) You did not feel like investing time in the problem
+   c) You did not understand the question
+   d) You did not know how to start the problem
+   e) You attempted the problem, but could not make significant progress on it
+
+I want to obtain an accurate assessment of your current capabilities.  Please do NOT consult ChatGPT, or any other coding or web resources, outside of those that were available to you when you took CS201.  Work on the problems by yourself - do NOT consult with anyone else.  Please do NOT try to impress me - just give me your honest effort.  I want to find out what you know and can do, not what ChatGPT (or your friends/classmates) know and can do...  :-)
+
+I also want to assess your ability to deal with ambiguity, so I will not be answering any questions concerning this exercise.  Please do not email questions concerning this exercise to me.  Just do the best that you can, with whatever understanding of the questions you have.
+
+BTW - The questions related to chess are actually problems that you will need to solve in order to design and implement the chess team project - which will be the "easiest" of the team projects, and the one for which I will be providing the most guidance and support.
+
+Please type you answers after each of the following questions.  For the problems that ask you to supply code, the code does not have to work - you do NOT have to get it running.  I just want to see if you know the concepts and how to assemble the pieces.  Just provide comments to tell me what you are trying to do.  If you want to create the code in an IDE, and create .java class files, that's fine.  You can either copy and paste the code into this document under the appropriate question, or you can ZIP the .java source files together along with your answers to the other questions in this document and submit the ZIP file to Marmoset.
+
+*********************************************************************
+	
+1) How many different ways are there to win in Tic Tac Toe?  List them.
+	
+ANSWER:
+
+	
+2) Provide the code to check for a winner in a Tic Tac Toe program.
+
+ANSWER: 
+
+
+3) Describe a method for determining the winner of Tic Tac Toe WITHOUT testing any of the individual values in the Tic Tac Toe grid locations
+
+ANSWER:
+
+	
+4) Describe an efficient way to check for a Draw in Tic Tac Toe?
+
+ANSWER:
+
+	
+5) Given that the frame size is 300 x 300 pixels, evenly divided into a 3 x 3 grid of 100 x 100 pixel squares, describe how you would translate the mouse (X,Y) pixel coordinates (0-299) into Tic Tac Toe (Row, Column) grid locations (0-2).
+
+ANSWER:
+
+	
+6) How would you do the above WITHOUT using any logic - using just a direct mathematical calculation, instead?
+
+ANSWER:
+
+	
+7) How would you efficiently scale that method to a 400 x 400 pixel grid for chess, evenly divided into an 8 x 8 grid of 50 x 50 pixel squares, so that you could determine which sqaure the mouse was clicked on?
+
+ANSWER:
+
+	
+8) Describe how MVC works - what are the responsibilities and constraints that MVC imposes on the various classes of an MVC application?
+
+ANSWER:
+
+
+*********************************************	
+
+A chess board is a grid of 8 x 8 squares, colored in a checkerboard fashion, with white and black.  There are 32 pieces in chess - 16 white, 16 black, with 6 different Piece types (King, Queen, Bishop, Knight, Rook, Pawn).  Each Piece type has a numeric rank (its relative worth in pawns).  Each Piece has a specific starting location on the board, and that location changes as the players move the Pieces.  There are specific rules for valid movement for each type of Piece.
+
+If a Piece can make a valid move to a square occupied by an opponent's Piece, it can capture that Piece (remove that Piece from the board), and take its position on the board.
+
+Certain Pieces can only make certain types of movement if they have not already been moved.
+
+If a pawn reaches the opponent's end row of the board, the player can turn it into a Queen (thus the Piece type can change during game play)
+
+*********************************************
+
+
+9) Create (write the code for) an abstract Piece class that can capture all of the above information.  Include all necessary methods to enforce encapsulation.  Also provide an abstract method called isValidMove() that can be implemented by the concrete Pieces to validate that Piece's move.  Make sure to define the parameters that isValidMove() needs in order to do its job.
+
+ANSWER:
+
+	
+10) What does the Piece constructor look like?  What parameters does the Piece constructor need to have?
+
+ANSWER:
+
+	
+11) What information do you need to pass to the isValidMove() method?  What data type does the isValidMove() method return?  Do not write the logic for the isValidMove() method.
+
+ANSWER:
+
+	
+12) Describe how you would use the abstract Piece class to create the 6 different concrete Piece types.
+
+ANSWER:
+
+	
+13) Describe how you would determine if a Piece can make a valid move from its current location to a specific board location.
+
+ANSWER:
+
+
+14) Create (write the code for) the concrete King class from the Abstract Piece class.  Don't worry abourt providing the implementation of the abstract isValidMove() method.   And, then instantiate the White and Black Kings and put them in an ArrayList of Pieces.
+
+ANSWER:
+
+	
+15) A King can move one square in any direction - but only if that move does not place the King in check (if the King could be captured by any of the opponent's Pieces on the opponent's next move).  Given an ArrayList of uncaptured opponent's Pieces, describe how you would use polymorphism in determining whether or not a King is in check.
+
+ANSWER:
+
+
+16) Now provide the code to run through that ArrayList to determine whether the King is in check.
+	
+ANSWER:
+
+	
+17) Describe how you would test the isValidMove() method for the King.	
+
+ANSWER:
+
+	
+18) Describe two different ways that you could sort an ArrayList of uncaptured Pieces by color and then by rank in descending order using the Java Collections Sort() method.
+
+ANSWER:
+	
+	
+19) Assume that the state of a chess game is stored in a file when the game is paused, and that the game is resumed later by reading that file and recreating the Pieces and their locations from that file.  What Exceptions do you need to check for when reading the file?
+
+ANSWER:
+
+
+20) How much time did you spend on this "exam"?
+
+ANSWER:
+
+
+21) Is this a fair "exam"?
+
+ANSWER:
