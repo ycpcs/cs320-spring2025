@@ -3,7 +3,7 @@ layout: default
 title: Syllabus
 ---
 
-CS 320 - Software Engineering and Design: Sections 101 and 102
+CS 320 - Software Engineering and Design
 =================================================================
 
 **Spring 2025**
