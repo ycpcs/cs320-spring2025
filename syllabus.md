@@ -3,32 +3,32 @@ layout: default
 title: Syllabus
 ---
 
-CS 320 - Software Engineering and Design <br> Prof Hake: Sections 101 and 102
+CS 320 - Software Engineering and Design: Sections 101 and 102
 =================================================================
 
-**Spring 2024**
+**Spring 2025**
 
-**Webpage:**  [https://ycpcs.github.io/cs320-spring2024](https://ycpcs.github.io/cs320-spring2024/)
+**Webpage:**  [https://ycpcs.github.io/cs320-spring2025](https://ycpcs.github.io/cs320-spring2025/)
 
 **Class times (all in KEC 119):**
 
 - Section 101: M-W-F	10:00 - 10:50 AM (Prof. Hake)
 - Section 102: M-W-F	 1:00 -  1:50 PM (Prof. Hake)
-- Section 103: M-W-F	 2:00 -  2:50 PM (Prof. Zeller - see Prof. Zeller for his syllabus)
 
 **Instructor:**
 
--   Professor Donald J. Hake II, <djhake2@ycp.edu><br> Office Hours: M-W-F 12:15-1:00 KEC 119 (or Dr. Babcocks's office), and by appointment
+-   Professor Donald J. Hake II, <djhake2@ycp.edu><br> Office Hours: M-W-F 1:30p-2:00p KEC 119 (or Dr. Babcocks's office), and by appointment
+-   Dr. Davis S. Babcock, <dbabcock@ycp.edu><br> Office Hours: M-W-F 1:30p-2:00p KEC 119 (or Dr. Babcocks's office), and by appointment
 
 
 Course Description
 ------------------
 
-This course describes the software development process in detail, including the software life cycle and models of software development; requirements analysis and software design techniques, such as Textual Analysis and UML, within the Object-Oriented Programing (OOP) paradigm; techniques for software quality assurance, including design reviews, automated testing, metrics, and an introduction to program verification; and software project planning, organization, and management. Students will be expected to participate in a semester-long team-programming project, as well as select, design, and implement their own individual self-learning project.  Students will also gain exposure to using and interacting with ChatGPT 3.5 as a one-on-oen assistant and tutor.
+This course describes the software development process in detail, including the software life cycle and models of software development; requirements analysis and software design techniques, such as Textual Analysis and UML, within the Object-Oriented Programing (OOP) paradigm; techniques for software quality assurance, including design reviews, automated testing, metrics, and an introduction to program verification; and software project planning, organization, and management. Students will be expected to participate in a semester-long team-programming project, as well as select, design, and implement their own individual self-learning project.  Students will also gain exposure to using and interacting with ChatGPT 3.5 as a one-on-one assistant and tutor.
 
 There is a possibility that during this course, classroom lectures may be recorded in accordance with York College of Pennsylvania policies for Student Accessibility Services.
 
-This syllabus is subject to revision by the instructor.
+This syllabus is subject to revision by the instructors.
 
 
 Prerequisites
@@ -86,25 +86,23 @@ Grades are assigned on a 100-point scale:
 
 Your overall grade for the course will be determined as follows:
 
--   Individual project, labs, and assignments: 35% (was 30%) **(&dagger;)**
--   Contributions to team project: 45% (was 40%) **(\*)**
--   Professionalism: 20% (was 15%) - Attendance, Attentiveness, Participation, Timeliness, Work Ethic, Teamwork.
--   Midterm exam: 0% (was 15%) - The original 15% assigned to the exam was distributed evenly to the above three categories.
-
+-   Individual project, labs, and assignments: 35% **(&dagger;)**
+-   Contributions to team project: 45% **(\*)**
+-   Professionalism: 20% - Attendance, Attentiveness, Participation, Timeliness, Work Ethic, Teamwork.
 
 **(&dagger;) You must make a good faith effort to complete all of the labs and assignments.  Failure to submit a good faith attempt for any assignment or lab is grounds for receiving a reduced grade for the course.  Labs will be graded on a *Pass / Fail* basis.  In order to receive a passing grade on a lab, your submission must have a substantial portion of the lab implemented and correctly working.  You could be penalized up to 5% points off your course grade for each lab for which you do not receive a passing grade.**
 
-**(\*) You must make a substantial *TECHNICAL* contribution to your team software project. Although the non-technical contributions you make to your project, such as planning, communication, organization, and design are important, you must also make a *substantial contribution to the design and implementation of the software*. I reserve the right to assign a reduced or failing grade for the course to any student who does not make a substantial technical contribution to their team project.**
+**(\*) You must make a substantial *TECHNICAL* contribution to your team software project. Although the non-technical contributions you make to your project, such as planning, communication, organization, and design are important, you must also make a *substantial contribution to the design and implementation of the software*. We reserve the right to assign a reduced or failing grade for the course to any student who does not make a substantial technical contribution to their team project.**
 
 ### Course website
 
-Please check the course web page, <http://ycpcs.github.io/cs320-spring2024/>, regularly for important announcements.
+Please check the course web page, <http://ycpcs.github.io/cs320-spring2025/>, regularly for important announcements.
 
 ### Attendance and Participation
 
 We expect you to attend class and participate regularly in class activities.  You are responsible for all material covered in class, regardless of whether or not you were present.  Class time will be devoted to activities, project work, demos, and status reports. As such, it is essential that you attend class.
 
-At a minimum, you attendance grade will be reduced by 1 percentage point for every unexcused absence over 2, and that will be factored into your Professionalism grade (which is purely subjective, based on my observations throughout the semester).  Also, you are required to inform both your team and me before you miss a class (with an explanation for why you are missing class, and how you are going to make up the work).  Failure to do so will negatively impact your Professionalism grade.
+At a minimum, your attendance grade will be reduced by 1 percentage point for every unexcused absence over 2, which will also be factored into your Professionalism grade (which is purely subjective, based on our observations throughout the semester).  Also, you are required to inform both your team and your instructor before you miss a class (with an explanation for why you are missing class, and how you are going to make up the work).  Failure to do so will negatively impact your Professionalism grade.
 
 ### Reading Assignments
 
@@ -114,7 +112,7 @@ Because we will be using class time for discussion and activities, as well as le
 
 ### Posting and submission of assignments and labs
 
-Code for assignments and labs will be posted as zip files on the course web page, <http://ycpcs.github.io/cs320-spring2024/>.
+Code for assignments and labs will be posted as zip files on the course web page, <http://ycpcs.github.io/cs320-spring2025/>.
 
 Written assignments will be created and submitted via Marmoset and/or shared Google Docs.
 
@@ -127,10 +125,6 @@ Late assignments will be marked down 10% per day late. **No credit will be given
 ### Late Lab Policy
 
 The labs will be graded on a **Pass / Fail** basis.  Since satisfactory completion of all of the labs is so crucial to your ability to make significant (and timely) contributions to your team project, there will **NOT** be a late grace period for any of the labs.  Late submission of a lab will result in an automatic failure for that lab and up to a **5% penalty could be assessed against your course grade for failing the lab.**
-
-### Exams
-
-This year's exam will be a take home exam.  You will be allowed to use all of the course resources, as well as your labs and assigments.  You are **NOT** allowed to consult with anyone else, or use any other resources to complete the exam, **especially ChatGPT**, unless otherwise instructed that you may do so.
 
 ### Academic Integrity
 
@@ -164,17 +158,17 @@ If at any point you are unsure whether something is allowed under the academic i
 
 **The following policy pertains to homework and graded (individual) programming assignments/labs in this course:**
 
-All homework assignments and graded (individual) programming assignments/labs are to be completed individually. I encourage you to discuss high level concepts and strategies with other students, but any work you submit **must be yours alone**.
+All homework assignments and graded (individual) programming assignments/labs are to be completed individually. We encourage you to discuss high level concepts and strategies with other students, but any work you submit **must be yours alone**.
 
 Because the **INDIVIDUAL** assignments/labs are essential for working towards and demonstrating the achievement of the course outcomes, you must solve them on your own.  You may discuss the problem and high-level (pseudo-code) approaches to solving the problem with other students.  You may *not*, under any circumstances, discuss or share concrete implementation techniques or code.  Examples of forbidden types of collaboration include, but are not limited to: looking at another student's code, allowing another student to see your code, viewing and/or using code from an external source such as a web page, discussing the use of specific API functions to solve a problem, giving or receiving help debugging specific code.
 
 Direct copying of code or other work from other students, web sites, or other sources **is absolutely forbidden under any circumstances**.
 
-Any sources (books, websites, articles, fellow students, ChatGPT, etc.) that you consult in completing an assignment **must be properly acknowledged**. In general, I strongly discourage you from using any resource not explicitly listed in the course syllabus or on the course web page. When you work on a programming assignment, it must be **your** program, not your adaptation of someone else's program.
+Any sources (books, websites, articles, fellow students, ChatGPT, etc.) that you consult in completing an assignment **must be properly acknowledged**. In general, we strongly discourage you from using any resource not explicitly listed in the course syllabus or on the course web page. When you work on a programming assignment, it must be **your** program, not your adaptation of someone else's program.
 
-With regard to using **ChatGPT** - athough we will be using ChatGPT extensively in class, with the exception of the ChatGPT and HTML/CSS labs, you are **strictly prohibited** from using ChatGPT (or any other AI code assistant) for **any of the other individual labs**.  I may modify that policy as the semester progresses, but it is still imperative that you learn how to read code that is not your own, modify and extend that code, and learn how to troubleshoot your own mistakes.  **If I suspect that a student has used ChatGPT to assist in their individual labs, I reserve the right to ask then to explain to me (and perhaps the class) how their code works, and how they arrived at their solution.**
+With regard to using **ChatGPT** - athough we will be using ChatGPT extensively in class, with the exception of the ChatGPT and HTML/CSS labs, you are **strictly prohibited** from using ChatGPT (or any other AI code assistant) for **any of the other individual labs**.  We may modify that policy as the semester progresses, but it is still imperative that you learn how to read code that is not your own, modify and extend that code, and learn how to troubleshoot your own mistakes.  **If we suspect that a student has used ChatGPT to assist in their individual labs, we reserve the right to ask then to explain to us (and perhaps the class) how their code works, and how they arrived at their solution.**
 
-You are allowed to (and expected to) work with the members of your team on team assignments and the team project.  I will generally give you explicit permission to use the code supplied through examples, labs, and solutions for your team projects.  In fact, I will encourage you to use that code as a basis for starting your project, if you happen to be working in Java and Eclipse.
+You are allowed to (and expected to) work with the members of your team on team assignments and the team project.  We will generally give you explicit permission to use the code supplied through examples, labs, and solutions for your team projects.  In fact, we will encourage you to use that code as a basis for starting your project, if you happen to be working in Java and Eclipse.
 
 All labs, quizzes, and exams **must** be completed individually.
 
@@ -184,7 +178,7 @@ Any violation of the course's academic integrity policy will be referred to the 
 
 York College of Pennsylvania offers a variety of accommodations to students with documented disabilities. To request accommodations, please contact Student Accessibility Services at (717)-815-1717 or <sas@ycp.edu>. Student Accessibility Services will discuss the confidential process of requesting accessibility services and establish the accommodations for which the student is eligible.
 
-If you already have an accommodation memo and wish to access your accommodations in this class, please see me confidentially to discuss.
+If you already have an accommodation memo and wish to access your accommodations in this class, please see us confidentially to discuss.
 
 ### Use of Personal Technology in the Classroom
 

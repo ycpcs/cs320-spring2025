@@ -117,7 +117,7 @@ As such, some of the links below could return 404 Page Not Found Errors.  We wil
 
 * **Jan 27** - [CS320 Preparation Exam](./CS320-Sp25-Prep-Exam.txt) is **due before class, Wednesday, 1-29-25**.  Download/copy the "exam" document and follow the instructions in the document.  Fill your answers directly into the document and submit it to the CS320 Preparation Exam project under CS320, Spring 2025 on Marmoset.
 
-* **Jan 27** - Please verify that you can access your Marmoset account for CS320-Sp25.  We will be using Marmoset for several submissions.  If you forgot your password, please email me and I will generate a new one for you.
+* **Jan 27** - Please verify that you can access your Marmoset account for CS320-Sp25.  We will be using Marmoset for several submissions.  If you forgot your password, please email your instructor and he will generate a new one for you.
 
 * **Jan 27** - Welcome back to KEC and the most **FUN** you've ever had in a CS course.
 
