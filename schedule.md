@@ -36,7 +36,7 @@ Fri, Mar 14   | Assign06: Team Problem Domain Submission Reviews |
 Mon, Mar 17   | Team Project Session: Preparation for Team Milestone 1 Presentation (in-class)|
 Wed, Mar 19   | Team Project Session: Final preparation for Team Milestone 1 Presentation (in-class)|
 Fri, Mar 21   | Team Project Milestone 1:<br> **Minimal Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
-Mon, Feb 24   | Individual Project Milestone 2:<br> **50% Progress** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
+Mon, Mar 24   | Individual Project Milestone 2:<br> **50% Progress** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Wed, Mar 26   | Relational Databases <br> SQL Lab Assigned <br> Database Applications - JDBC <br> JDBC Lab Assigned | [Lecture 13: Relational Databases](lectures/lecture13.html) <br> [Lab 4: SQL Lab](./labs/lab04.html) <br> [Lecture 14: Database Applications, JDBC](lectures/lecture14.html) <br> [Lab 5: JDBC Lab](./labs/lab05.html)
 Fri, Mar 28   | Database Applications - ORM <br> ORM Lab Assigned | [Lecture 15: ORM, Designing a Persistence Layer](lectures/lecture15.html)<br> [Lab 6: ORM Lab](./labs/lab06.html)
 Mon, Mar 31   | SQL / JDBC / ORM Labs Review |
