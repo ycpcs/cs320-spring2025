@@ -18,9 +18,9 @@ Basic Requirements
 
 There must be an established dictionary and vocabulary - the words and phrases that the game engine comprehends.  These fall into the general categories of:
 
-* Direction and movement commands: north, south, up, down, etc.
+* Direction and movement commands: north, south, up, down, jump, crawl, etc.
 
-* Action commands: take, throw, light, drop, run, jump, crawl, etc.
+* Action commands: take, throw, unlock, light, drop, run, etc.
 
 * Status queries: inventory, look, location, score, health, time, etc.
 
@@ -49,7 +49,7 @@ The database for the program will consist of all of the above.
 You MUST create your map, plot, and narrative - you cannot copy another text-based adventure game.  You should initialize all of the above lists from text-based CSV files that will initially hold your data.  You will use those CSV files to initialize/recreate your database, and to edit/extend your game.  See the end of this description for a suggested approach for the CSV file structure.  The contents of the CSV files are delimited by pipe ('\|') characters.
 
 
-You are NOT allowed to create a grid-based map of rooms - you must use a node-based map that can have any number of inter-connections with other rooms based on links to those rooms.
+**NOTE: You are NOT allowed to create a grid-based map of rooms - you must use a node-based map that can have any number of inter-connections with other rooms based on links to those rooms.**
 
 User Interface
 ==============
