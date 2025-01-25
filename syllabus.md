@@ -12,7 +12,7 @@ CS 320 - Software Engineering and Design
 
 **Class times (all in KEC 119):**
 
-- Section 101: M-W-F	2:00 - 2:50 AM (Prof. Hake)
+- Section 101: M-W-F	2:00 - 2:50 PM (Prof. Hake)
 - Section 102: M-W-F	3:00 - 3:50 PM (Dr.Babcock)
 
 **Instructor:**
