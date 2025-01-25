@@ -1,0 +1,30 @@
+if not 1st frame
+2nd shot:  if 2nd shot, score = 1st shot score
+strike:    else if pins = 'X', score = previous score + 10 + next 2 counts
+spare:     else if 2nd pins ="/", score = previous score + 10 + next 1st count
+open:      else if 2nd pins != "/", score = previous score + 1st count + 2nd count
+
+if 1st frame
+2nd shot:  if 2nd shot, score = 1st shot score
+strike:    else if pins = 'X', score = 10 + next 2 counts
+spare:     else if 2nd pins = "/", score = 10 + next 1st count
+open:      else if score = 1st count + 2nd count
+
+IF(frame <> 1,
+   IF(shot = 2, 1st score,
+      IF(pins = "X", prev score + 10 + next 1st + next 2nd,
+	     IF(2nd pins="/", prev score + 10 + next 1st, prev score + 1st count + 2nd count))))
+		 
+IF(frame = 1,
+  IF(pins = "X", 10 + next 1st + next 2nd,
+    IF(2nd pins="/", 10 + next 1st, 1st count + 2nd count))))
+
+		 
+IF(G2 = 2, H1,
+  IF(F2 <> 1,
+     IF(J2 = "X", H1 + 10 + H3 + H4,
+	   IF(J3 = "/", H1 + 10 + H3, H1 + H2 + H3))),
+  IF(J2 = "X", 10 + H3 + H4,
+	IF(J3 = "/", 10 + H3, H2 + H3)))))
+			
+

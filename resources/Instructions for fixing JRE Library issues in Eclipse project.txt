@@ -1,0 +1,12 @@
+1) Right click on your project (CS320_Lab02)
+2) Select "Properties" - at the very bottom
+3) Select "Java Build Path" from left column
+4) Select "Libraries" tab
+5) Click on whichever library entry shows as (unbound) - likely JRE System Library [jdk1.8.0_301]
+6) Press "Edit..." button
+7) Select the "Workspace deault JRE" radio button
+8) Press "Finish"
+9) Press "Apply and Close"
+10) Rebuild your project
+11) Restart the server
+12) And away you go...

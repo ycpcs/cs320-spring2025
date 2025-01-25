@@ -1,0 +1,96 @@
+Create Free Oracle Account
+www.oracle.com
+
+Select "Products"
+Select "Java" from Right-Hand list
+Press Download Java
+
+https://www.oracle.com/java/technologies/downloads/
+
+Select "Java Archive"
+Select "Jave SE"
+Select "Java SE 8 (JDK 8u202 and earlier)"
+
+https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html
+
+Scroll Down to
+Java SE Development Kit 8u181
+Select appropriate 64-bit build for your operating system
+
+
+Select "Java SE 16"
+
+https://www.oracle.com/java/technologies/javase/jdk16-archive-downloads.html
+
+Scroll Down to
+Java SE Development Kit 16.0.2
+Select appropriate 64-bit build for your operating system
+https://www.oracle.com/java/technologies/javase/jdk16-archive-downloads.html
+
+
+https://www.oracle.com/java/technologies/downloads/
+For Java SE Development Kit 17.0.1 Downloads
+select your oeprating system
+
+Windows x64 Installer
+
+https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe
+
+INSTALL JAVA FIRST
+Installation - double-click on executable
+Just follow default settings
+
+Can install multiple versions in similar fashion
+
+C:/Program Files/java/jdk1.8.0_181
+C:/Program Files/java/jre1.8.0_181
+C:/Program Files/java/jdk-16.0.2
+C:/Program FIles/java/jdk-17.0.1
+
+
+
+
+Eclipse Installer
+https://www.eclipse.org/downloads/packages/installer
+
+Eclipse IDE
+https://www.eclipse.org/downloads/packages/
+
+Select Eclipse IDE for Java Developers
+2021-12 R Package (appropriate for your OS) - doesn't work with Java 1.8.0_181 (needs JDK-11 or greater)
+
+ZIP file - just extract to C:\
+Will see C:\eclipse
+   under that folder, create shortcut for eclipse.exe
+   
+   Start-it up and select Workspace folder, which I suggest you make c:\cs320-spring2022 OR h:\cs320-spring2022 (although Eclipse sometimes doesn't like working with HOME (H:) network drive.
+   
+Eclipse IDE OXYGEN 3A Packages (Older packages)
+Eclipse IDS for Java Developers (x86_64 bit version)
+
+Java 1.8.0_261, 1.8.0_301 in KEC 123
+
+https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html
+
+Eclipse 2020-6 installed in KEC 123
+Eclipse 2020-6 (JDK JRE 8 or later), anything newer requires JDK 11 or newer
+
+https://www.eclipse.org/downloads/packages/release/2020-06/r
+   
+***************
+Install Java first
+   1) double-click on JDK application
+   2) follow default instructions - default location
+   3) for Windows: will be installed to c:\Program Files\Java\jdk name
+   4) you can have multiple versions installed, and you can select which on you want to use for each project in Eclipse
+   
+Install Eclipse second - this is just a matter of unzipping the download into a known location:
+  1) for Windows: install at C:\...  You can also have multiple versions of Eclipse, just install them under different folder names
+  2) got to the eclipse folder, and double-click on the eclipse application
+  3) select a workspace location: create a folder called c:\cs320-spring2022, and then browse to it when prompted
+  4) click the Workspace button in the upper right corner after eclipse starts
+  5) download a lab archive
+  6) go to File->Import->General->Existing Projects into Workspace
+  7) select the Select archive file
+  8)
+
