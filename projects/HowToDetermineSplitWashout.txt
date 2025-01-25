@@ -1,0 +1,125 @@
+How to Determine that a Spare Leave (1st shot) is a Washout or a Split (algorithm)
+
+Splits and washouts are difficult leaves to convert ito spares, and are characterized by at least one "large" gap in the pins that are left standing.  Splits and washouts are not generally included in spare conversion statistics, as bowlers ARE expected to convert normal spare shots but are NOT expected to convert splits and washouts.  As such, in order to calculate accurate spare conversion percentages, it is essential to determine if the combination of pins left after the 1st shot is a normal spare leave, or a split or washout.
+
+
+The pins are arranged and numbered like this:
+
+	7 8 9 10
+	 4 5 6
+	  2 3
+	   1
+	   
+
+A split is normally marked with an circle around the number of pins from the 1st shot, but can also be indicated with an 's' in front of the 1st shot count) .
+
+The official definition of a split:
+  
+  2.1.8 A split is a setup of pins left standing after the first delivery, provided the head pin is down and:
+
+     a) At least one pin is down between two or more standing pins; i.e. 3-10, 4-9, 4-6-7-10.
+
+     b) At least one pin is down immediately ahead of two or more standing pins; i.e. 9-10.
+	 
+Some typical splits:
+	 
+  4-6-7-10 split:
+  
+ 	7     10 
+	 4   6
+
+  2-4-10 split:
+  
+	      10
+	 4
+	  2		  
+	   
+  3-10 split:
+  
+           10
+		 
+		  3
+
+  9-10 split:
+  
+ 		 9 10
+	
+A washout can be considered a split with the head pin still standing - and is usually indicated by a 'w' before the pin count. 
+
+	 
+Typical washout:
+1-2-4-10 washout
+
+	      10
+	 4
+	  2
+	   1
+	   
+1-2-6-10 washout:
+	      10
+	     6
+	  2   
+	   1
+
+
+Algorithm:
+   
+Sort the remaining pins in an ArrayList in ascending order.
+   
+Determine all adjacent pins:
+     - for 1-pin, 2, 3, 5
+     - for 2-pin, 4, 5, 8
+	 - for 3-pin, 5, 6, 9
+	 - for 4-pin, 7, 8
+	 - for 5-pin, 8, 9
+	 - for 6-pin, 9, 10
+	 - for 7-pin, none 
+	 - for 8-pin, none
+	 - for 9-pin, none
+	 - for 10-pin, none
+	 
+Now determine if there is NO way to "connect" two or more standing pins via their adjacency to the other standing pins.  In Computer Science terms, we are going to make an adjacency list from a directed graph (CS350: Data Structures) and then look for a spanning tree that covers all nodes (standing pins) in the graph (CS360: Algorithms).  If we can not find such a tree, then the spare leave is a washout or a split.
+
+Concept: Starting with lowest pin, determine all pins that are adjacent to each remaining pin, and then determine all pins adjacent to those pins - this can go three levels deep for a washout (rows 1, 2, and 3), but only two levels deep for a split (rows 2, 3).
+
+Mark all adjacent pins for all of the standing pins.
+	 
+If there are two or more standing pins left that are not marked, then the leave is a washout (headpin standing) or a split (headpin NOT standing).
+
+Implementation:
+	 
+Create the adjacency matrix: a 2-dimensional integer array of 7 rows x 3 columns that indicates the adjacency status for a full rack of pins - you can use the pin number to directly access the row for that pin in the adjacency matrix.
+	 
+	 0:
+	 1: 2  3  5
+	 2: 4  5  8
+	 3: 5  6  9
+	 4: 7  8  0
+	 5: 8  9  0
+	 6: 9 10  0
+	 
+ZERO (0) indicates that there is no 3rd adjacent pin.  You don't need a special case for this, as there will NOT be a '0' pin in the standing pin list.
+	 
+Start with the standing pin list, pins are sorted in ascending numerical order (this is the "leave" after the 1st shot)
+	 	 
+Create an adjacency array (2D integer array of 2 rows by 11 columns) - the pin number can be used to access its corresponding column in the array - the 0th column is unused.  In the top row (row 0), initialize every standing pin with a '1', and all pins that were knocked down with a '0'.
+
+Initialize the bottom row (row 1) with all '0's.
+	 
+For each pin in the standing pin list:
+	    for each pin in that pin's row in the adjacency matrix:
+		    mark any corresponding '1' entries in the top row of the adjacency array
+				with a '1' in the bottom row (use the pin number as the index
+				into the adjacency array column)
+		
+Stop when the next standing pin is > 6 or at the end of the Arraylist, whichever comes first.
+
+Sum the contents of the bottom row of the adjacency array.  If the total exceeds '1', then the leave is a washout (if the 1st standing pin is the headpin).  The leave is a split otherwise.
+
+Return 'w' for washout, 's' for split, or a space for neither.
+
+You can create a separate class for this problem.  Declare the adjacency matrix as a static element of the class, as it never changes.  You will need to initialize it when you declare it.  The constructor accepts the standing pin ArrayList, and initializes the 2D adjacency array accordingly.
+
+Create a public method called isWashoutOrSplit() which executes the above algorithm, returning 's', 'w', or ' '.
+
+You could also leave the constructor empty, and pass the standing pin ArrayList to isWashoutOrSplit() which would have to initialize the adjacency array with '0's and '1's, as necessary.
