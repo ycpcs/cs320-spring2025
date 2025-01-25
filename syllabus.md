@@ -12,8 +12,8 @@ CS 320 - Software Engineering and Design
 
 **Class times (all in KEC 119):**
 
-- Section 101: M-W-F	10:00 - 10:50 AM (Prof. Hake)
-- Section 102: M-W-F	 1:00 -  1:50 PM (Prof. Hake)
+- Section 101: M-W-F	2:00 - 2:50 AM (Prof. Hake)
+- Section 102: M-W-F	3:00 - 3:50 PM (Dr.Babcock)
 
 **Instructor:**
 
@@ -102,7 +102,7 @@ Please check the course web page, <http://ycpcs.github.io/cs320-spring2025/>, re
 
 We expect you to attend class and participate regularly in class activities.  You are responsible for all material covered in class, regardless of whether or not you were present.  Class time will be devoted to activities, project work, demos, and status reports. As such, it is essential that you attend class.
 
-At a minimum, your attendance grade will be reduced by 1 percentage point for every unexcused absence over 2, which will also be factored into your Professionalism grade (which is purely subjective, based on our observations throughout the semester).  Also, you are required to inform both your team and your instructor before you miss a class (with an explanation for why you are missing class, and how you are going to make up the work).  Failure to do so will negatively impact your Professionalism grade.
+At a minimum, your attendance grade will be reduced by 1 percentage point for every unexcused absence over 2, which will also be factored into your Professionalism grade (which is purely subjective, based on our observations throughout the semester).  Also, **you are required to inform both your team AND your instructor** before you miss a class (with an explanation for why you are missing class, and how you are going to make up the work).  Failure to do so will negatively impact your Professionalism grade.
 
 ### Reading Assignments
 
