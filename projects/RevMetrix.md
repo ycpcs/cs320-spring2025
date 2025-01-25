@@ -49,11 +49,11 @@ The basic structure is Event->Session(s)->Game(s)->Frame(s)->Shot(s).
 -   **Team Result:** team win/loss record for the Game
 -   **Individual Result:** if the team is bowling match-play, the individual head-to-head result,  otherwise, this will be the same as the Team Record above
 
-A **Game** can consist of up to 12 frames. Frame information includes:
+A **Game** can consist of up to 12 frames (the 10th frame can be represented with up to 3 frames). Frame information includes:
 -	**Frame #:** the chronological order of the Frame within the Game
 -	**Lane:** the lane the Frame was bowled on
 -	**Result:** indicates the result for the Frame: strike, spare, open, etc...
--	**Shots:** a Frame can have up to two Shots (the 10th frame can have up to 3 shots, but they will handled with optional 11th and 12th frames)
+-	**Shots:** a Frame can have up to two Shots (the 10th frame can have up to 3 shots, but they will be handled with optional 11th and 12th frames)
 
 A **Shot** is the most basic component of a Game.  The Shot information consists of:
 - 	**Shot #:** the chronological order of the Shot within the Frame
@@ -62,7 +62,7 @@ A **Shot** is the most basic component of a Game.  The Shot information consists
 -	**Leave:** a list of the number of each pin that was left standing after the Shot
 -	**Type:** the type of leave: strike (no pins standing), spare, open, split, washout, etc...
 -   **Side:** where the pins were left standing: right, middle, left
--   **Position:** where the ball hit the pocket: right, light, light-pocket, pocket, high-pocket, high, nose, brooklyn, left)
+-   **Position:** for a 1st shot, where the ball hit the pocket: right, light, light-pocket, pocket, high-pocket, high, nose, brooklyn, left OR for a spare shot, where the ball hit the remaining pins on a missed spare: right, chop, left
 
 And here is [how to determine if a 1st shot is a split or a washout](HowToDetermineSplitWashout.txt).
 
