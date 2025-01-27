@@ -13,11 +13,11 @@ This is the website for CS 320, Spring 2025 at York College.  **All information 
 
 
 <!-- Commenting out until it's needed next year
--->
 
 # WEBSITE UNDER CONSTRUCTION.
 
 As such, some of the links below could return 404 Page Not Found Errors.  We will will be developing the course website over Semester Break.  If you would like to see what the organization and content of a previous CS320 class looked like (and what you are getting yourself into), go to [CS320-Spring2024](https://ycpcs.github.io/cs320-spring2024).  The Spring 2025 CS320 course will be somewhat different, but will contain all of the content, labs, assignments, projects, and expected outcomes from the Spring 2024 course.
+-->
 
 
 ## Links
@@ -101,19 +101,23 @@ As such, some of the links below could return 404 Page Not Found Errors.  We wil
 
 * **Feb 6** - [Lab02: Web Applications I](labs/lab02.html) is posted.  It is simply an introduction to Web Applications, and will ease you into Lab02a.  It is not required, but it will give you a good start on Lab02a.  Please also see the [Java and Eclipse Installation Instructions](labs/Eclipse-Java-Installation.html) for additional information about setting up your development environment for the labs.  See also the [WebApps Notes](labs/lab02_notes.html) for additional information about setting up the lab, if you run into trouble with the libraries or server.
 
-* **Feb 1** - [Lab03: Git and eGit Lab PartI](labs/lab03.html) is posted, and is **due by the start of class, Monday, 2-5-24**.  You are required to establish your GitHub account, create the SSH key pair to access it, and Fork the example project (do all steps through Step 4: Fork).  You may certainly do more than this - we will be getting to Part II of this later in the course. 
-
-* **Jan 30** - [Lab00: Using ChatGPT](labs/lab00.html) is now **due in Marmoset by 7:00am, Friday, 2-2-24**.
-
-* **Jan 26** - [Assignment 4](assign/assign04.html) describes the expectations for the individual project milestones. 
-* **Jan 26** - [Assignment 3](assign/assign03.html) describes the expectations for the team project milestones.
-* **Jan 26** - Please see the **Projects** page for [Some Possible Team Projects](projects/index.html).
-* **Jan 26** - The class rosters were included in the CS320 introductory email.  You should start to consider choosing your project teams.
-* **Jan 26** - [Assign01: Team Project Proposal](assign/assign01.html) is posted and is **due by Noon, Sunday, 2-11-24**. 
-* **Jan 26** - [Assign02: Individual Project Proposal](assign/assign02.html) is posted and is **due by Noon, Saturday, 2-10-24**. 
-* **Jan 26** - [Lab01: HTML/CSS Resume](labs/lab01.html) is posted and is **due by Noon, Sunday, 2-4-24**.
+* **Feb 1** - [Lab03: Git and eGit Lab PartI](labs/lab03.html) is posted, and is **due by the start of class, Monday, 2-5-24**.  You are required to establish your GitHub account, create the SSH key pair to access it, and Fork the example project (do all steps through Step 4: Fork).  You may certainly do more than this - we will be getting to Part II of this later in the course.
 
 -->
+
+* **Jan 27** - [Assignment 4](assign/assign04.html) describes the expectations for the individual project milestones.
+
+* **Jan 27** - [Assignment 3](assign/assign03.html) describes the expectations for the team project milestones.
+
+* **Jan 27** - Please see the **Projects** page for [Some Possible Team Projects](projects/index.html).
+
+* **Jan 27** - [Assign01: Team Project Proposal](assign/assign01.html) is posted and is **due by Noon, Sunday, 2-16-25**.
+
+* **Jan 27** - [Assign02: Individual Project Proposal](assign/assign02.html) is posted and is **due by Noon, Sunday, 2-9-25**.
+
+* **Jan 27** - [Lab01: HTML/CSS Resume](labs/lab01.html) is posted and is **due by Noon, Wednesday, 2-5-25**.
+
+* **Jan 27** - [Lab00: Using ChatGPT](labs/lab00.html) is posted and is **due by Noon, Monday, 2-3-25**.
 
 * **Jan 27** - [CS320 Preparation Exam](./CS320-Sp25-Prep-Exam.txt) is **due before class, Wednesday, 1-29-25**.  Download/copy the "exam" document and follow the instructions in the document.  Fill your answers directly into the document and submit it to the CS320 Preparation Exam project under CS320, Spring 2025 on Marmoset.
 
