@@ -8,7 +8,7 @@ ChatGPT
 
 ## Objective
 
-The student will ask ChatGPT questions relevant to course content, and analyze the answers for correctness and creativity.  The student will then use ChatGPT to assist with creating a personal HTML resume.
+The student will ask [ChatGPT](https://chat.openai.com) questions relevant to course content, and analyze the answers for correctness and creativity.  The student will then use ChatGPT to assist with creating a personal HTML resume.
 
 ## Resources
 

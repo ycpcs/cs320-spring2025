@@ -7,7 +7,7 @@ This page links to useful resources.
 
 Artificial Intelligence (AI) and ChatGPT
 ========================================
-[ChatGPT](https://chat.openai.com) will be able to give you answers (or at least point you in a generally good direction) for many of the topics listed below).  You should sign up for the free account so that you can keep track of your conversations.
+[ChatGPT](https://chat.openai.com): ChatGPT (andother large language models - LLMs) will be able to give you answers (or at least point you in a generally good direction) for many of the topics listed below.  You should sign up for the free ChatGPT account so that you can keep track of your conversations.
 
 [AI Bill of Rights (2022)](WhiteHouse-AIBillOfRights-Oct2022.pdf)
 
