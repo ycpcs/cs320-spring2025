@@ -12,9 +12,9 @@ The student will ask ChatGPT questions relevant to course content, and analyze t
 
 ## Resources
 
-AI Bill of Rights (2022): Available at [https://www.whitehouse.gov/ostp/ai-bill-of-rights/](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
+[AI Bill of Rights (2022)](../resources/WhiteHouse-AIBillOfRights-Oct2022.pdf)
 
-## Your Task
+## Your Tasks
 
 1. Download, read, and memorize the entire Blueprint for an AI Bill of Rights. All 70+ pages of it.  Or, just skim through it. Know that this document exists, what it is generally about, and how it could shape the field of programming.
 2. Create a **FREE** account for [ChatGPT 3.5](https://chat.openai.com). You will then be able to inititiate conversations, and ask ChatGPT questions and analyze the responses.
@@ -39,7 +39,7 @@ Creativity among AI is a controversial topic. Does AI have actual creativity (li
 -   Write a short story about a bowling ball with a mind of its own.
 -   What is the best vegan restaurant within ten miles of York College campus?
 -   Who wins: The Borg or a Sith Lord?
--   How many times does "spam" appear in the Monty Python Spam sketch?
+-   How many times is "spam" said in the Monty Python "Spam" sketch?
 -   I want to get into superhero movies. What movies of the last twenty or so years are the most definitive for the genre?
 -   I suffer from screen addiction. What are some ways to treat this condition?
 -   What courses should I take after having completed CS101 and CS201 at York College of PA for YCP's computer engineering major?

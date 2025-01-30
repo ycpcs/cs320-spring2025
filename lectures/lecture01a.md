@@ -12,7 +12,7 @@ The student will ask ChatGPT questions relevant to course content, and analyze t
 
 ## Resources
 
-AI Bill of Rights (2022): Available at [https://www.whitehouse.gov/ostp/ai-bill-of-rights/](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
+[AI Bill of Rights (2022)](../resources/WhiteHouse-AIBillOfRights-Oct2022.pdf)
 
 ## Background
 
@@ -49,7 +49,7 @@ Let's look at the [ChatGPT lab]](../labs/lab00.html).
 
 ## Your Task
 
-1. Download, read, and memorize the entire Blueprint for an AI Bill of Rights. All 70+ pages of it.  Or, just skim through it. Know that this document exists, what it is generally about, and how it could shape the field of programming.
+1. Download, read, and memorize the entire Blueprint for an AI Bill of Rights. All 70+ pages of it.  **Or, just skim through it.** Know that this document exists, what it is generally about, and how it could shape the field of programming.
 2. Create a **FREE** account for [ChatGPT 3.5](https://chat.openai.com). You will then be able to inititiate conversation, and ask ChatGPT questions and analyze the responses.
 3. Start a new conversation with ChatGPT.  Ask ChatGPT a series of generic questions. Keep the questions lighthearted and easy to understand. The responses should be easy to analyze for correctness and creativity. This is just to get used to the ChatGPT system, and does not need to be submitted. 
 4. The course syllabus should list the topics to be covered in class.  Decide on three relevant topics to cover in a conversation with ChatGPT.  The topics should be directly relevant to the course in question.  See below for a list of example questions. 

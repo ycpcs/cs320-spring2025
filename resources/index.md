@@ -5,6 +5,12 @@ title: "Resources"
 
 This page links to useful resources.
 
+Artificial Intelligence (AI) and ChatGPT
+========================================
+[ChatGPT](https://openai.com) will be able to give you answers (or at least point you in a generally good direction) for many of the topics listed below).  You should sign up for the free account so that you can keep track of your conversations.
+
+[AI Bill of Rights (2022)](WhiteHouse-AIBillOfRights-Oct2022.pdf)
+
 Hypertext Mark-Up Language (HTML) and Cascading Style Sheets (CSS)
 ===================================================================
 
