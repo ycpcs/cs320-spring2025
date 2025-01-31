@@ -8,7 +8,7 @@ Your Task
 
 Use ChatGPT as a self-guided one-on-one assistant and tutor to help you create your own personal HTML/CSS resume.  The previous ChatGPT lab should have provided you with some insight into how to prompt ChatGPT for information.  You can instruct ChatGPT to manipulate its suggestions so that you can get it to produce the Resume format and contents specified below.
 
-Use HTML and CSS and *ChatGPT 3.5** to create your resume, using the following example as a template (click for full-size).
+Use HTML and CSS and **ChatGPT 3.5** to create your resume, using the following example as a template (click for full-size).
 
 > <a href="images/lab01/resume.png"><img style="width: 500px;" src="images/lab01/resume.png" /></a>
 
