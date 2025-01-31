@@ -14,3 +14,4 @@
 # Temporary MS Word files
 ~*doc
 ~*docx
+.DS_Store

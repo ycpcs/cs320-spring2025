@@ -42,7 +42,7 @@ The future of AI arrived on November 30, 2022 when OpenAI released ChatGPT to th
 Background
 ----------
 
-The time is now upon us! Artificial Intelligence has developed to the point that it can understand and carry out instructions in normal language format. AI can generate programs, summarize articles, do extensive searches, and many other professional tasks. It also has its limits, some of which are still being discovered. This lab investigates the vast possibilities and potential risks of using artificial intelligence to learn programming. Students will ask questions specifically related to the course material. The responses could potentially be written at a level that is too complex for student understanding. The point of the [ChatGPT lab] (../labs/lab00.html) is to experiment with the capacity of ChatGPT and how it can serve you as a tool for learning content as well as completing tasks. 
+The time is now upon us! Artificial Intelligence has developed to the point that it can understand and carry out instructions in normal language format. AI can generate programs, summarize articles, do extensive searches, and many other professional tasks. It also has its limits, some of which are still being discovered. This lab investigates the vast possibilities and potential risks of using artificial intelligence to learn programming. Students will ask questions specifically related to the course material. The responses could potentially be written at a level that is too complex for student understanding. The point of the [ChatGPT lab](../labs/lab00.html) is to experiment with the capacity of ChatGPT and how it can serve you as a tool for learning content as well as completing tasks. 
 
 ChatGPT - Benefits and Warnings
 -------------------------------
