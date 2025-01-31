@@ -82,6 +82,6 @@ From a web browser
 
 Save all of your HTML/CSS Resume files (including any embedded pictures and other artifacts) to a ZIP file named **CS320_Lab01.zip**.  Make sure to preserve the file structure of your Resume.  I recommend ZIPping the folder (and its contents) that contains your HTML/CSS Resume,
 
-Upload the saved ZIP file to the **Lab01** project under **CS320, Spring 2024** on the Marmoset server. The Marmoset server URL is:
+Upload the saved ZIP file to the **lab01** project under **CS320, Spring 2025** on the Marmoset server. The Marmoset server URL is:
 
 > [https://cs.ycp.edu/marmoset/](https://cs.ycp.edu/marmoset/)

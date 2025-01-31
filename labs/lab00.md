@@ -76,6 +76,6 @@ From a web browser
 
 Save your conversation document in PDF form as **CS320_Lab00.pdf**.
 
-Upload your PDF to the **Lab00** project under **CS320, Spring 2024** on the Marmoset server. The Marmoset server URL is:
+Upload your PDF to the **lab00** project under **CS320, Spring 2025** on the Marmoset server. The Marmoset server URL is:
 
 > [https://cs.ycp.edu/marmoset/](https://cs.ycp.edu/marmoset/)
