@@ -14,13 +14,13 @@ Day/Date        | Topic/Activity               | Reading/Lab
 ----------------| ---------------------------- | ----------------------------
 Mon, Jan 27   | Course Overview <br> **Prep Exam Assigned** | [Lecture 0: Course Overview](lectures/lecture00.html)<br>[CS320 Preparation Exam](./CS320-Sp25-Prep-Exam.txt)
 Wed, Jan 29   | Software Engineering Introduction, Calendar, Projects <br> Lab0: ChatGPT Lab assigned <br> **Prep Exam Due (Marmoset)** | [Lecture 0: Course Overview](lectures/lecture00.html) <br> [Lab 0: Using ChatGPT](./labs/lab00.html)
-Fri, Jan 31   | Object Oriented Programming and ChatGPT <br> HTML (content) & CSS (style) using ChatGPT <br> HTML/CSS Resume Lab Assigned | [Lecture 1: OOP and ChatGPT](lectures/lecture01.html)<br> [Lecture 2: HTML and CSS](lectures/lecture02.html)<br> [Lab 1: HTML and CSS Lab](./labs/lab01.html)
-Mon, Feb 3    | Project Introductions and Schedules | [Team Project Proposal](./assign/assign01.html) <br> [Individual Project Proposal](./assign/assign02.html)
-Wed, Feb 5    | [Lecture 12: Git for Designers](https://web.archive.org/web/20150301060509/http://hoth.entp.com/output/git_for_designers.html) <br> [Lab 3: Git Lab Part I](./labs/lab03.html)
-Fri, Feb 7    | Review ChatGPT & HTML/CSS Resume Labs<br>Project Proposals<br>Quick Intro to Web Applications <br> Web Applications I Lab assigned | [Lecture 4: Web Applications](lectures/lecture04.html) <br>  [Lab 2: Web Applications I](./labs/lab02.html)
-Mon, Feb 10   | Web Applications I <br> Web Applications II Lab Assigned | [Lecture 4: Web Applications](lectures/lecture04.html)<br>[Lab 2a: Web Applications II](./labs/lab02a.html)
-Wed, Feb 12   | Web Applications II <br> Web Applications Lab Review |
-Fri, Feb 14   | TBD
+Fri, Jan 31   | Object Oriented Programming and ChatGPT <br> HTML/CSS Resume Lab Assigned | [Lecture 1: OOP and ChatGPT](lectures/lecture01.html)<br>[Lab 1: HTML and CSS Lab](./labs/lab01.html)
+Mon, Feb 3    | Individual Project Introduction<br>HTML (content) & CSS (style) using ChatGPT | [Individual Project Proposal](./assign/assign02.html)<br>[Lecture 2: HTML and CSS](lectures/lecture02.html)<br>[Lab 1: HTML and CSS Lab](./labs/lab01.html)
+Wed, Feb 5    | Team Project Introduction and Schedule | [Team Project Proposal](./assign/assign01.html)
+Fri, Feb 7    | [Lecture 12: Git for Designers](https://web.archive.org/web/20150301060509/http://hoth.entp.com/output/git_for_designers.html) <br> [Lab 3: Git Lab Part I](./labs/lab03.html)
+Mon, Feb 10    | Review ChatGPT & HTML/CSS Resume Labs<br>Project Proposals<br>Quick Intro to Web Applications <br> Web Applications I Lab assigned | [Lecture 4: Web Applications](lectures/lecture04.html) <br>  [Lab 2: Web Applications I](./labs/lab02.html)
+Wed, Feb 12   | Web Applications I <br> Web Applications II Lab Assigned | [Lecture 4: Web Applications](lectures/lecture04.html)<br>[Lab 2a: Web Applications II](./labs/lab02a.html)
+Fri, Feb 14   | Web Applications II <br> Web Applications Lab Review |
 Mon, Feb 17   | Development Processes & Waterfall Model <br> Agile Process & Scrum w/Examples  <br> [CS201: Disk Game](https://ycpcs.github.io/cs201-fall2021/assign/assign01.html) <br> [CS320: Web Applications Lab02a](labs/lab02a.html)| UD: Chapter 2 <br> [Lecture 6: Development Process](lectures/lecture06.html) <br>  [Lecture 7: Agile & Scrum](lectures/lecture07.html) <br> SG: [2016 Scrum Guide](lectures/lecture07/2016_Scrum_Guide_US.pdf)
 Wed, Feb 19   | Requirements<br>User Requirements Exercise and <br> Brainstorming Session (in-class) | UD: Chapter 9 <br>[Lecture 8: Requirements](lectures/lecture08.html)
 Fri, Feb 21   | Requirements & Use Cases<br>Requirements and Use Case Exercise (in-class) | UD: Chapter 9 <br> [Lecture 8: Use Cases](lectures/lecture08.html)

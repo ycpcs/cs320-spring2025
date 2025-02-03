@@ -105,6 +105,8 @@ As such, some of the links below could return 404 Page Not Found Errors.  We wil
 
 -->
 
+* **Feb 3** - [Lab01: HTML/CSS Resume](labs/lab01.html) has been pushed out to **Noon, Friday, 2-7-25**.  If it is submitted by the original due date (Noon, Wednesday, 2-5-25) you will receive 25% extra credit.
+
 * **Jan 27** - [Assignment 4](assign/assign04.html) describes the expectations for the individual project milestones.
 
 * **Jan 27** - [Assignment 3](assign/assign03.html) describes the expectations for the team project milestones.
