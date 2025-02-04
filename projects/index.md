@@ -16,6 +16,8 @@ This page lists the possible team projects for this semester.  Pick one of these
 
 * [Possible Client-Based Project from YCP School of Business](TBD): To be determined the first week of class.  This project would be developed in collaboration with students/faculty from the YCP School of Business.  Details are still being worked out, which will be available later in the first week of class.  See the note below for qualifications for this project.
 
+* [ABET Assessment Data Collection Application](TBD): One component of the CS program's ABET accreditation is an extensive course assessment process. As part of this process, faculty are required to complete a form for their courses which are then aggregated together. Currently this is done manually through text files, but we would like to have a web-based system that allows faculty to complete a form in a browser and then have the data stored in a database. Dr. Babcock would be the primary client for this project and can provide additional details.
+
 **NOTE** If you (and your entire team) have a strong desire to propose and tackle a project of your own choosing, and your **entire team** can demonstrate sufficient compentancy to me, I will give your proposal consideration.  NOTE: Consideration is not a guarantee for approval.  Talk to me early, before your submit your proposal.
 
 <!--
