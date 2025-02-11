@@ -91,19 +91,20 @@ As such, some of the links below could return 404 Page Not Found Errors.  We wil
 
 * **Feb 11** - [Assignment 4: Individual Project Milestones](assign/assign04.html) **Individual Milestone 1: Baseline** is **due on Wednesday, 2-28-24**.  This will be an informal (at your desk) 3-4 minute (max) in-class demonstration of your progress, to date.
 
-* **Feb 11** - Posted the [sign-off criteria for the Web Applications II lab](labs/lab02a-signoff-criteria.html).  The **minimum passing criteria** have been posted under the **Submission section** for the [Web Applications II lab](labs/lab02a.html).  Please review all of the criteria before asking your instructor or a tutor/mentor to sign-off on your **Lab02a** submission.  Also, a [lab sign-off sheet](labs/CS320-Lab02a-WebApplicationsII-LabSignOff.pdf) has been posted as a downloadeable PDF file.  **Please download and print this out so that you can use it as a check-off sheet when you get your lab sign-off.**
-
-* **Feb 6** - [Lab02a: Web Applications II](labs/lab02a.html) is posted and is **due after sign-off on Monday, 2-19-24**  You must demonstrate Lab02a for a tutor/mentor or your instructor and have them sign-off on it in order to get credit for the lab.  Please also see the [Java and Eclipse Installation Instructions](labs/Eclipse-Java-Installation.html) for additional information about setting up your development environment for the labs.  See also the [WebApps Notes](labs/lab02_notes.html) for additional information about setting up the lab, if you run into trouble with the libraries or the server.
 
 * **Feb 6** - [Assign02: Individual Project Proposal](assign/assign02.html) is posted and the **due date has been moved to Noon, Sunday, 2-11-24**.
 
 * **Feb 6** - [Assign01: Team Project Proposal](assign/assign01.html) is posted and the **due date has been moved to 7:00am, Wednesday, 2-14-24**.
 
-* **Feb 6** - [Lab02: Web Applications I](labs/lab02.html) is posted.  It is simply an introduction to Web Applications, and will ease you into Lab02a.  It is not required, but it will give you a good start on Lab02a.  Please also see the [Java and Eclipse Installation Instructions](labs/Eclipse-Java-Installation.html) for additional information about setting up your development environment for the labs.  See also the [WebApps Notes](labs/lab02_notes.html) for additional information about setting up the lab, if you run into trouble with the libraries or server.
-
-* **Feb 1** - [Lab03: Git and eGit Lab PartI](labs/lab03.html) is posted, and is **due by the start of class, Monday, 2-5-24**.  You are required to establish your GitHub account, create the SSH key pair to access it, and Fork the example project (do all steps through Step 4: Fork).  You may certainly do more than this - we will be getting to Part II of this later in the course.
-
 -->
+
+* **Feb 10** - Posted the [sign-off criteria for the Web Applications II lab](labs/lab02a-signoff-criteria.html).  The **minimum passing criteria** have been posted under the **Submission section** for the [Web Applications II lab](labs/lab02a.html).  Please review all of the criteria before asking your instructor or a tutor/mentor to sign-off on your **Lab02a** submission.  Also, a [lab sign-off sheet](labs/CS320-Lab02a-WebApplicationsII-LabSignOff.pdf) has been posted as a downloadeable PDF file.  **Please download and print this out so that you can use it as a check-off sheet when you get your lab sign-off.**
+
+* **Feb 10** - [Lab02a: Web Applications II](labs/lab02a.html) is posted and is **due after sign-off on Saturday, 2-22-25**  You must demonstrate Lab02a for a tutor/mentor or your instructor and have them sign-off on it in order to get credit for the lab.  Please also see the [Java and Eclipse Installation Instructions](labs/Eclipse-Java-Installation.html) for additional information about setting up your development environment for the labs.  See also the [WebApps Notes](labs/lab02_notes.html) for additional information about setting up the lab, if you run into trouble with the libraries or the server.
+
+* **Feb 10** - [Lab02: Web Applications I](labs/lab02.html) is posted and due in class Friday, 2-24-25.  It is simply an introduction to Web Applications, and will ease you into Lab02a.  It is "HIGHLY RECOMMENDED** (but not required), but it will give you a good start on Lab02a, as well as facilitate asking informed questions in class on Friday.  Please also see the [Java and Eclipse Installation Instructions](labs/Eclipse-Java-Installation.html) for additional information about setting up your development environment for the labs.  See also the [WebApps Notes](labs/lab02_notes.html) for additional information about setting up the lab, if you run into trouble with the libraries or server.
+
+* **Feb 3** - [Lab03: Git and eGit Lab PartI](labs/lab03.html) is posted, and is **due by the start of class, Monday, 2-10-25**.  You are required to establish your GitHub account, create the SSH key pair to access it, and Fork the example project (do all steps through Step 4: Fork).  You may certainly do more than this - we will be getting to Part II of this later in the course.
 
 * **Feb 3** - [Lab01: HTML/CSS Resume](labs/lab01.html) has been pushed out to **Noon, Friday, 2-7-25**.  If it is submitted by the original due date (Noon, Wednesday, 2-5-25) you will receive 25% extra credit.
 
