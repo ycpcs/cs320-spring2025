@@ -51,7 +51,7 @@ Installation is simply a matter of unzipping the download into a known location.
   
 > 2) After unzipping into your chosen folder, go to that folder, and double-click on the **eclipse.exe** application file.  Eclipse will start up.
   
-> 3) Eclipse will prompt you for a Workspace location: create a folder on your home drive called **cs320-spring2025**, set it as the default Workspace and then browse to it when prompted for a Workspace.  You will use that Workspace for all of your labs.  You will eventually create a separate Workspace for your team project.
+> 3) Eclipse will prompt you for a Workspace location: create a folder on your home drive called **cs320-spring2025**, set it as the default Workspace, and then browse to it when prompted for a Workspace.  You will use that Workspace for all of your labs.  You will eventually create a separate Workspace for your team project.
 
 > 4) We recommend that you create an **archives** folder inside your **cs320-spring2025** folder to store all of your archive downloads, and lab and project archives locally, before submitting them to Marmoset.
   
