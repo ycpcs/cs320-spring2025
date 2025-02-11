@@ -13,37 +13,37 @@ All of the CS320 labs have been reconfigured to use **Eclipse Temurin builds of 
 Installing Java
 ===============
 
-* First, check to see if you have **jdk-8.0.442.6-hotspot** already installed (unlikely), by looking under **C:/Eclipse Adoptium** on your computer.  If so, you can move on to the installation instructions for Eclipse.
+First, check to see if you have **jdk-8.0.442.6-hotspot** already installed (unlikely), by looking under **C:/Eclipse Adoptium** on your computer.  If so, you can move on to the installation instructions for Eclipse.
 
 If you do not find the above OpenJDK 8 installation on your computer, you'll have to install it from [Adoptium Temurin Open JDK 8](https://adoptium.net/temurin/releases/?version=8&os=windows).
 
-* Follow the link above, which takes you directly to the **Temurin 8.0.442+6** release.  Select your operating system (it defaults to Windows) and download the appropriate version for your operating system.
+Follow the link above, which takes you directly to the **Temurin 8.0.442+6** release.  Select your operating system (it defaults to Windows) and download the appropriate version for your operating system.
 
-**Windows:** Download the **x64 JDK .msi file** (the top entry shown).
+* **Windows:** Download the **x64 JDK .msi file** (the top entry shown).
 
-**macOS:** Download either **x64 JDK .pkg or x64 JDK .tar.gz** (one of the top 2 entries).  See Dr. Babcock for details.
+* **macOS:** Download either **x64 JDK .pkg or x64 JDK .tar.gz** (one of the top 2 entries).  See Dr. Babcock for details.
 
-**Linux:** Download the JDK version appropriate for your hardware configuration.  See Dr. Babcock for details.
+* **Linux:** Download the JDK version appropriate for your hardware configuration.  See Dr. Babcock for details.
 
-* After downloading the file, install the JDK package (all downloads are around 100MB, which could take a few moments to download).
+After downloading the file, install the JDK package (all downloads are around 100MB, which could take a few moments to download).
 
-**Windows:** Double click on the **.msi** file that was downloaded.  By default, it will install to **C:/Eclipse Adoptium/jdk-8.0.442.6-hotspot**.  It will install both the JDK and the JRE.
+* **Windows:** Double click on the **.msi** file that was downloaded.  By default, it will install to **C:/Eclipse Adoptium/jdk-8.0.442.6-hotspot**.  It will install both the JDK and the JRE.
 
-**macOS:** TODO for Dr. Babcock
+* **macOS:** TODO for Dr. Babcock
 
-** Linux:** TODO for Dr Babcock
+* ** Linux:** TODO for Dr Babcock
 
 
 Installing Eclipse
 =================
 
-* After first installing Java, now you can install Eclipse.  We will be using **Eclipse 2024-12** for the CS320 labs (this is the version to be installed in KEC 119 and KEC 123.
+After first installing Java, now you can install Eclipse.  We will be using **Eclipse 2024-12** for the CS320 labs (this is the version to be installed in KEC 119 and KEC 123.
 
-* If you already have **Eclipse 2024-12** installed, then you don't need to proceed further. You should attempt to download, import, and install [Lab 2: Web Applications I](./lab02.html) to verify that your installation works.  You might have to tweak the Java version that Eclipse is using.  A link to notes for tweaking your Eclipse/Java installation is included in the Lab02 write-up.
+If you already have **Eclipse 2024-12** installed, then you don't need to proceed further. You should attempt to download, import, and install [Lab 2: Web Applications I](./lab02.html) to verify that your installation works.  You might have to tweak the Java version that Eclipse is using.  A link to notes for tweaking your Eclipse/Java installation is included in the Lab02 write-up.
 
-* If you need to install **Eclipse 2024-12**, you can download the correct version you need for your operating system from [Download Eclipse IDE for Enterprise Java and Web Developers: 2024-12](https://www.eclipse.org/downloads/packages/release/2024-12/r/eclipse-ide-enterprise-java-and-web-developers).  Select the download approproate for your operating system.
+If you need to install **Eclipse 2024-12**, you can download the appropriate version you'll need for your operating system from [Download Eclipse IDE for Enterprise Java and Web Developers: 2024-12](https://www.eclipse.org/downloads/packages/release/2024-12/r/eclipse-ide-enterprise-java-and-web-developers).  Select the download approproate for your operating system.
 
-* Installation is simply a matter of unzipping the download into a known location.  Create an **Eclipse-2024-12** folder on your home drive (C:/ for Windows):
+Installation is simply a matter of unzipping the download into a known location.  Create an **Eclipse-2024-12** folder on your home drive (**C:/ for Windows**):
 
   1) Copy the entire unzipped **eclipse-jee-2024-R...** folder to your **Eclipse-2024-12** folder.  This allows you to maintain multiple different Eclipse installations.
   
