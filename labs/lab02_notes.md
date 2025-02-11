@@ -4,38 +4,44 @@ title: "Notes for Lab 2: Guessing Game WebApp"
 ---
 
 Determining the JRE System Library
-===============
+==================================
 
-These instructions are for **Eclipse 2020-06** (which is installed on the PCs in KEC 119 and KEC 123).  The instructions will be similar for other versions of Eclipse - but there might be some slight differences.
+These instructions are for **Eclipse 2024-12 IDE for Enterprise Java and Web Developers** (which will be installed on the PCs in KEC 119 and KEC 123).  The instructions will be similar for other versions of Eclipse - but there might be some slight differences.
 
-All of the labs have been reconfigured to use **JRE System Library[JavaSE-1.8]**, which is installed on the PC's in both KEC 119 and KEC 123.  It is possible that the configuration you are using on your own PC (or even on a lab PC) could vary such that no suitable version of Java JRE 1.8 can be found.  The instructions below will help you establish the proper JRE System Libraries for the labs for CS320.
+All of the CS320 labs have been reconfigured to use **Eclipse Temurin builds of OpenJDK 8** (which replicates Oracle Java JRE/JDK 8).  This open source option includes both OpenJDK 8 and the corresponding JRE, and can be found at [Eclipse Termurin Open JDK 8](https://adoptium.net/temurin/releases/?version=8&os=windows).
 
-If you are using an older version of the **JRE System Library**, you might need to change the default **JRE System Library** version to a later version in order to get **CS320\_Lab02** to work.  A **JRE System Library** version of **jre1.8.0\_181** or later (up to **1.8.0\_301**) should work fine - choose the latest version in that range that you have available.
+OpenJDK 8 will also eventually be installed on the PC's in both KEC 119 and KEC 123.  The CS320 labs and example projects will all work with **OpenJDK 8**.
 
-In KEC 119 and KEC 123, the latest version of the **JRE System Library** is **1.8.0\_301**.  I recommend using the same version as installed on the lab PCs.
+All of the labs will be reconfigured to use **jdk-8.0.442.6-hotspot**, which will be installed on the PC's in both KEC 119 and KEC 123.  It is possible that the configuration you are using on your own PC (or even on a lab PC) could vary such that the OpenSource JDK 8 can be found.  The instructions below will help you establish the proper JRE System Libraries for the labs for CS320.
 
-* Create a folder on your YCP home drive **(H:)** or on your own PC **(C:)** named **cs320-spring2024**.
+If you are using a different version of the **JRE System Library** with Eclipse 2024-12, you should change the default **JRE System Library** version to **jdk-8.0.442.6-hotspot** in order to get **CS320\_Lab02** to work.
 
-* Set the **Default Workspace** for Eclipse to that location.
+* Create a folder on your YCP home drive **(H:)** or on your own PC's home drive (C:/ for WIndows) named **cs320-spring2025**.
+
+* Create a sub-folder called **archives** within that **cs320-spring2025** folder for storing your download archives and your lab submission archives.
+
+* Set the **Default Workspace** for Eclipse 2024-12 to the **cs320-spring2025** folder.
 
 * Download **CS320\_Jetty9.zip** and **CS320\_Lab02.zip**.
 
-* Open Eclipse, switch the **Workspace** to **H:/cs320-spring2024** (on a lab PC) or **C:/cs320-spring2024** (on your own PC).
+* Open Eclipse 2024-12, switch the **Workspace** to **/cs320-spring2024** (on the home drive of your own PC) or **H:/cs320-spring2025** (on a lab PC).
 
 * Import **CS320\_Jetty9.zip**.
 
 * Import **CS320\_Lab02.zip**.
 
-* Expand the **CS320_Lab02** project.
+* Expand both projects.
 
-* If it shows the **JRE System Library** either as **JRE System Library[JavaSE-1.8]** or **jdk1.8.0\_181** or later (up to **1.8.0\_301**), then you likely have no further steps to take.
+* If each project shows the **JRE System Library** as **jdk-1.8.0.442.6-hotspot**, then you likely have no further steps to take.  You can start to work on **CS320\_Lab02**.
 
 Changing the JRE System Library
 ===============================
 
-On the other hand, if the **JRE System Library** is shown as "unbound", you will likely need to switch to a compatible library.
+On the other hand, if the **JRE System Library** is shown as "unbound", you will need to switch to a compatible library.
 
-Go to **C:/Program Files/Java** and look for a JDK folder labelled **jdk1.8.0\_xxx**.  Hopefully, you have one of those installed in the Java folder.  For the lab PCs, there could be multiple versions installed - choose the latest 1.8.0\_xxx  (this should be version **1.8.0\_301**).  If a compatible version is present, then do the following:
+Assuming that you have downloaded and installed **jdk-1.0.8.442.6-hotspot**, go to **C:/Program Files/Eclipse Adoptium**.  There should be a folder named **jdk-1.0.8.442.6-hotspot**.
+
+It is possible that there are other versions of Java installed under the **C:/Program Files/Java** folder.  Those are not the Java versions we are looking for.
 
 * Go into Eclipse, right-click on the **CS320\_Lab02** project.
 
@@ -53,36 +59,24 @@ Go to **C:/Program Files/Java** and look for a JDK folder labelled **jdk1.8.0\_x
 
 * That will pop up a list of installed JRE's.
 
-* If you see one for **jdk1.8.0\_181** (or later), select whichever one you want, and hit **Apply**, followed by **OK**.
+* If you see one for **jdk-1.8.0.442.6-hotspot**, select it and hit **Apply**, followed by **OK**.
 
 * You should now see that the **Workspace default JRE** has changed to the one you just selected.
 
 * Hit **Finish**, and then **OK**, and you are ready to roll.  The **JRE System Library** for **CS320\_Lab02** should also have been updated.
 
-* If you do not see an acceptable JDK version, then  select **search**, and browse to the **C:/Program File/Java** folder under **Computer**, and hit **OK**.
+* If you do not the see **jdk-1.8.0.442.6-hotspot**, then  select **search**, and browse to the **C:/Program Files/Eclipse Adoptium** folder under **Computer**, and hit **OK**.
 
-* Now, all of the currently installed JDKs and JREs that are included in that folder will show up, and you can select an appropriate one. (**Apply**, **OK**, **Finish**, **OK**).
+* Now, you can select **jdk-1.8.0.442.6-hotspot**. (**Apply**, **OK**, **Finish**, **OK**).
 
 * You should now be able to run the lab.
 
-Installing a new JDK from Oracle
-================================
+Installing the JDK from Eclipse Temurin
+=======================================
 
-If you do not find an acceptable JDK installed on your computer, you'll have to install one from this location:
+If you do not find the **jdk-1.8.0.442.6-hotspot** installed on your computer, you can find the instructions for installing it on the [Notes for Lab 2 Page](lab02_notes.html).
 
-[Oracle Java SE 8 Downloads](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html)
-
-Create a free Oracle account and then download and install the appropriate version for your Eclipse/java installation - the 64-bit version will show up in **C:/Program Files/Java**, and then you can select it as described above.
-
-* Scroll down to **Java SE Development Kit 8u301**.
-
-* Now select the appropriate file to download for your operating system.  For Windows-64bit, that will be the Windows x64 Installer: **jdk-8u301-windows-x64.exe**.
-
-* Download the file - it is 169.5MB, it could take a few moments to download.
-
-* Run the executable - it will bring up the installer.  By default, it will install to the **C:/Program Files/Java** folder.  It will install both the JDK and the JRE at that location.
-
-* After it is installed, you can then follow the above instructions to set the **JRE System Library** to the JDK you just installed.
+After it is installed, you can then follow the above instructions to set the **JRE System Library** to the JDK you just installed.  You can then return to the instructions above for importing the **CS320\_Lab02** projects.
 
 
 Other Issues

@@ -37,7 +37,7 @@ After downloading the file, install the JDK package (all downloads are around 10
 
 
 Installing Eclipse
-=================
+==================
 
 After first installing Java, now you can install Eclipse.  We will be using **Eclipse 2024-12 IDE for Enterprise Java and Web Developers** for the CS320 labs and for your team project (this is also the version to be installed in KEC 119 and KEC 123).
 
