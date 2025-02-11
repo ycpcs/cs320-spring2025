@@ -47,14 +47,15 @@ If you need to install **Eclipse 2024-12**, you can download the correct version
 
 Installation is simply a matter of unzipping the download into a known location.  Create an **Eclipse-2024-12** folder on your home drive (**C:/ for Windows**):
 
-  1) Copy the entire unzipped **eclipse-jee-2024-R...** folder to your **Eclipse-2024-12** folder.  This allows you to maintain multiple different Eclipse installations.
+> 1) Copy the entire unzipped **eclipse-jee-2024-R...** folder to your **Eclipse-2024-12** folder.  This allows you to maintain multiple different Eclipse installations.
   
-  2) After unzipping into your chosen folder, go to that folder, and double-click on the **eclipse.exe** application file.  Eclipse will start up.
+> 2) After unzipping into your chosen folder, go to that folder, and double-click on the **eclipse.exe** application file.  Eclipse will start up.
   
-  3) Eclipse will prompt you for a Workspace location: create a folder on your home drive called **cs320-spring2025**, set it as the default Workspace and then browse to it when prompted for a Workspace.  You will use that Workspace for all of your labs.  You will eventually create a separate Workspace for your team project.
+> 3) Eclipse will prompt you for a Workspace location: create a folder on your home drive called **cs320-spring2025**, set it as the default Workspace and then browse to it when prompted for a Workspace.  You will use that Workspace for all of your labs.  You will eventually create a separate Workspace for your team project.
+
+> 4) We recommend that you create an **archives** folder inside your **cs320-spring2025** folder to store all of your archive downloads, and lab and project archives locally, before submitting them to Marmoset.
   
-  4) Click the Workspace button in the upper right corner after Eclipse starts, which will take you to the IDE.
+> 5) Click the Workspace button in the upper right corner after Eclipse starts, which will take you to the IDE.
   
-  5) Follow the instructions for [Lab 2: Web Applications I](./lab02.html) in order to download and import the **Lab02** and the **Jetty9 Server** project archives into your Workspace so that you can verify that your Eclipse/Java installation works.
+> 6) Follow the instructions for [Lab 2: Web Applications I](./lab02.html) in order to download and import the **Lab02** and the **Jetty9 Server** project archives into your Workspace so that you can verify that your Eclipse/Java installation works.
   
-  6) We recommend that you create an **archives** folder inside your **Eclipse-2024-12** folder to store all of your lab and project archives locally, before submitting them to Marmoset.
