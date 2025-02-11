@@ -23,9 +23,9 @@ Follow the link above, which takes you directly to the **Temurin 8.0.442+6** rel
 
 * **Windows:** Download the **x64 JDK .msi file** (the top entry shown).
 
-* **macOS:** Download either **x64 JDK .pkg or x64 JDK .tar.gz** (one of the top 2 entries).  See Dr. Babcock for details.
+* **macOS:** Download either **x64 JDK .pkg or x64 JDK .tar.gz** (one of the top 2 entries).  TODO for Dr. Babcock.
 
-* **Linux:** Download the JDK version appropriate for your hardware configuration.  See Dr. Babcock for details.
+* **Linux:** Download the JDK version appropriate for your hardware configuration.  TODO for Dr. Babcock.
 
 After downloading the file, install the JDK package (all downloads are around 100MB, which could take a few moments to download).
 
@@ -39,11 +39,11 @@ After downloading the file, install the JDK package (all downloads are around 10
 Installing Eclipse
 =================
 
-After first installing Java, now you can install Eclipse.  We will be using **Eclipse 2024-12 IDE for Enterprise Java and Web Developers** for the CS320 labs and for your team project (this is also the version to be installed in KEC 119 and KEC 123.
+After first installing Java, now you can install Eclipse.  We will be using **Eclipse 2024-12 IDE for Enterprise Java and Web Developers** for the CS320 labs and for your team project (this is also the version to be installed in KEC 119 and KEC 123).
 
 If you already have **Eclipse 2024-12** installed, then you don't need to proceed further. You should attempt to download, import, and install [Lab 2: Web Applications I](./lab02.html) to verify that your installation works.  You might have to tweak the Java version that Eclipse is using.  A link to notes for tweaking your Eclipse/Java installation is included in the Lab02 write-up.
 
-If you need to install **Eclipse 2024-12**, you can download the appropriate version you'll need for your operating system from [Download Eclipse IDE for Enterprise Java and Web Developers: 2024-12](https://www.eclipse.org/downloads/packages/release/2024-12/r/eclipse-ide-enterprise-java-and-web-developers).  Select the download approproate for your operating system.
+If you need to install **Eclipse 2024-12**, you can download the correct version you'll need for your operating system from [Download Eclipse IDE for Enterprise Java and Web Developers: 2024-12](https://www.eclipse.org/downloads/packages/release/2024-12/r/eclipse-ide-enterprise-java-and-web-developers).  Select the download approproate for your operating system.
 
 Installation is simply a matter of unzipping the download into a known location.  Create an **Eclipse-2024-12** folder on your home drive (**C:/ for Windows**):
 
@@ -51,8 +51,10 @@ Installation is simply a matter of unzipping the download into a known location.
   
   2) After unzipping into your chosen folder, go to that folder, and double-click on the **eclipse.exe** application file.  Eclipse will start up.
   
-  3) Select a Workspace location: create a folder on your home drive called **cs320-spring2025**, and then browse to it when prompted for a Workspace.  You will use this workspace for all of your labs.  You will eventually create a separate workspace for your team project.
+  3) Eclipse will prompt you for a Workspace location: create a folder on your home drive called **cs320-spring2025**, set it as the default Workspace and then browse to it when prompted for a Workspace.  You will use that Workspace for all of your labs.  You will eventually create a separate Workspace for your team project.
   
   4) Click the Workspace button in the upper right corner after Eclipse starts, which will take you to the IDE.
   
-  5) Follow the instructions for [Lab 2: Web Applications I](./lab02.html) in order to download and import the **Lab02** and the **Jetty9** server projects into your Workspace so that you can verify that your Eclipse/Java installation works.
+  5) Follow the instructions for [Lab 2: Web Applications I](./lab02.html) in order to download and import the **Lab02** and the **Jetty9 Server** project archives into your Workspace so that you can verify that your Eclipse/Java installation works.
+  
+  6) We recommend that you create an **archives** folder inside your **Eclipse-2024-12** folder to store all of your lab and project archives locally, before submitting them to Marmoset.
