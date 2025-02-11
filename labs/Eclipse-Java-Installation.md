@@ -5,9 +5,11 @@ title: "Installing Eclipse and Java for CS320"
 
 **NOTE: Always install Java before installing Eclipse**
 
-These instructions are for installing **Eclipse 2024-12** (which will also be installed on the PCs in KEC 119 and KEC 123).  The instructions will be similar for other versions of Eclipse - but there might be some slight differences.
+These instructions are for installing **Eclipse 2024-12 IDE for Enterprise Java and Web Developers** (which will also be installed on the PCs in KEC 119 and KEC 123).  The instructions will be similar for other versions of Eclipse - but there might be some slight differences.
 
-All of the CS320 labs have been reconfigured to use **Eclipse Temurin builds of OpenJDK 8** (which replicates Oracle Java JRE/JDK 8).  This open source option includes both OpenJDK 8 and the corresponding JRE, and can be found at [Eclipse Termurin Open JDK 8](https://adoptium.net/temurin/releases/?version=8&os=windows).  OpenJDK 8 will also eventually be installed on the PC's in both KEC 119 and KEC 123.  The CS320 labs and example projects will all work with **OpenJDK 8**.  
+All of the CS320 labs have been reconfigured to use **Eclipse Temurin builds of OpenJDK 8** (which replicates Oracle Java JRE/JDK 8).  This open source option includes both OpenJDK 8 and the corresponding JRE, and can be found at [Eclipse Termurin Open JDK 8](https://adoptium.net/temurin/releases/?version=8&os=windows).  OpenJDK 8 will also eventually be installed on the PC's in both KEC 119 and KEC 123.  The CS320 labs and example projects will all work with **OpenJDK 8**.
+
+**NOTE:** Make sure to install the **OpenJDK 8** version from above, as the CS320 labs might not work with other versions of Java.  
 
 
 Installing Java
@@ -31,13 +33,13 @@ After downloading the file, install the JDK package (all downloads are around 10
 
 * **macOS:** TODO for Dr. Babcock
 
-* ** Linux:** TODO for Dr Babcock
+* **Linux:** TODO for Dr Babcock
 
 
 Installing Eclipse
 =================
 
-After first installing Java, now you can install Eclipse.  We will be using **Eclipse 2024-12** for the CS320 labs (this is the version to be installed in KEC 119 and KEC 123.
+After first installing Java, now you can install Eclipse.  We will be using **Eclipse 2024-12 IDE for Enterprise Java and Web Developers** for the CS320 labs and for your team project (this is also the version to be installed in KEC 119 and KEC 123.
 
 If you already have **Eclipse 2024-12** installed, then you don't need to proceed further. You should attempt to download, import, and install [Lab 2: Web Applications I](./lab02.html) to verify that your installation works.  You might have to tweak the Java version that Eclipse is using.  A link to notes for tweaking your Eclipse/Java installation is included in the Lab02 write-up.
 
