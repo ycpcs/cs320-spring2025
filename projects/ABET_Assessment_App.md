@@ -25,3 +25,5 @@ Basic Requirements
 * A web-based form where professors can enter data regarding the assessment measure used and the resulting data collected for that measure. It would be helpful to be able to display the previous assessment performed in the course for the selected outcome/indicator.
 
 * The ability to generate a summary for all outcomes/indicators for a given year and entire assessment cycle
+
+[CRITERION4-ex](CRITERION4-ex.pdf) is a description of the assessment process along with information on the outcomes, indicators, course mapping, schedule, thresholds, and sample data table. [APPENDIXF-ex](APPENDIXF-ex.pdf) provides rubrics for each indicator and a sample of a current data collection sheet.
