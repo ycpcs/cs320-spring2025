@@ -39,7 +39,7 @@ The easiest way to install Java is via the [Homebrew](https://brew.sh/) package 
 
 * Install the openJDK 1.8.0-442 cask via
 
-	brew install openjdk@8
+    brew install openjdk@8
 
 Linux
 -----
