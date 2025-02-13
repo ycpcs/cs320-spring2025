@@ -93,9 +93,9 @@ Periodically, someone will come across this issue:
 
 >	org.apache.jasper.JasperException: The absolute uri: http://java.sun.com/jsp/jstl/core cannot be resolved in either web.xml or the jar files deployed with this application
 
-Emmett Larsen (CS320-Sp25 Tutor) came up with this solution:
+Emmett Larsen (CS320-Sp25 Tutor) came up with the following solution:
 
-These were the steps I took to fix the following error message when trying to connect to localhost in the browser (Running windows 11). Error: " The absolute uri: http://java.sun.com/jstl/core cannot be resolved in either web.xml or the jar files deployed with this application"
+These were the steps Emmett took to fix the following error message when trying to connect to localhost in the browser (Running windows 11). Error: " The absolute uri: http://java.sun.com/jstl/core cannot be resolved in either web.xml or the jar files deployed with this application"
 
 > 1. Ensure that Eclipse is running Java 1.8 in some fashion
 > 2. Go to [this link at Apache.org](https://tomcat.apache.org/download-taglibs.cgi) and download the zip file
@@ -104,10 +104,6 @@ These were the steps I took to fix the following error message when trying to co
 > 5. Open the XML files and add ' prefix="c" ' into tag header.
     Ex: "<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>"
 
-After doing this, the lab functioned as normal, and I was able to submit forms successfully to the server.
+After doing this, the lab functioned as normal, and Emmett was able to submit forms successfully to the server.
 
-<!-- Commenting out until I need it again
-
-I've been looking into the issue, and came across this fairly involved post, which covers many types of different servers and scenarios.  It is not entirely helpful, but I am posting it here so that we can access it in the future: [absolute URI cannot be resolved](https://stackoverflow.com/questions/4928271/how-to-install-jstl-it-fails-with-the-absolute-uri-cannot-be-resolved-or-una)
-
--->
+Here is some additional information on the issue.  I've previously looked into the issue, and came across this fairly involved post, which covers many types of different servers and scenarios.  It is not entirely helpful, but I am posting it here so that we can access it in the future: [absolute URI cannot be resolved](https://stackoverflow.com/questions/4928271/how-to-install-jstl-it-fails-with-the-absolute-uri-cannot-be-resolved-or-una)
