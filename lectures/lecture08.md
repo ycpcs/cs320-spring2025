@@ -116,7 +116,7 @@ Basic hardware features:
    
 Use your imagination, as engineers - what functions, actions, requirements, use cases are possible for a vending machine with the given hardware?
    
-Now, the project teams will do this as an exersize on the white boards, as an example for creating a use case.
+Now, the project teams will do this as an exercise on the white boards, as an example for creating a use case.
    
 -	Think very broadly - how could the vending machine be used?
 
