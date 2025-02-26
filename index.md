@@ -74,29 +74,24 @@ As such, some of the links below could return 404 Page Not Found Errors.  We wil
 * **Feb 28** - [Team Project Milestone 1: Minimal Working System](assign/assign03.html) is due Wednesday, 3-13-24**.  This will be a FORMAL 10-12 minute (max) in-class team presentation/demonstration of your team's progress on your UI structure and navigation.  You should have the majority of your servlets and JSPs defined, and be able to navigate between most, if not all, of your pages.  Your HTML/CSS will still be in a rough state - don't worry about making it "pretty", focus on functionality over form.  There is **NO** expectation for having any of your SQL database implemented or working.  For the time being, if you want to persist user-entered data between your UI and your server, consider using the HTTP Session for that.
 
 
-* **Feb 20** - I recommend using one of the following **free** tools for creating your UML diagrams for your group's UML model that will part of Assign06.  You may use other drawing tools, but whichever drawing tool you use, you **must be able to export PDF, PNG, or JPG versions of the UML diagram**, which you will then embed into your Assign06 submission:
+-->
+
+* **Feb 26** - I recommend using one of the following **free** tools for creating your UML diagrams for your group's UML model that will part of Assign06.  You may use other drawing tools, but whichever drawing tool you use, you **must be able to export PDF, PNG, or JPG versions of the UML diagram**, which you will then embed into your Assign06 submission:
 
 	* [Figma](https://www.figma.com/)
 	* [Draw.io online version](https://app.diagrams.net/)
 	* [Draw.io download](https://www.drawio.com/)
 	* [Lucid Chart](https://www.lucidchart.com/)
 
-* **Feb 20** - [Assignment 6: Problem Domain Analysis](assign/assign06.html) is **due by Noon, Satureday, 3-9-24.**  I STRONGLY recommend that you begin collaborating on this assignment remotely over Winter Break using Google Docs, and your shared Google Team Drive so that you have a preliminary design from which to develop your Team Project for your upcoming Team Milestone 1 presentation and demo.  You also **MUST** create and embed a **PDF, PNG, or JPG** version of your UML document in your Google Doc submission. **Embed it in your Google doc - DO NOT LINK TO YOUR UML DIAGRAM.**
+* **Feb 26** - [Assignment 6: Problem Domain Analysis](assign/assign06.html) is **due by Noon, Thursday, 3-13-25.**  I STRONGLY recommend that you begin collaborating on this assignment remotely over Winter Break using Google Docs, and your shared Google Team Drive so that you have a preliminary design from which to develop your Team Project for your upcoming Team Milestone 1 presentation and demo.  You also **MUST** create and embed a **PDF, PNG, or JPG** version of your UML document in your Google Doc submission. **Embed it in your Google doc - DO NOT LINK TO YOUR UML DIAGRAM.**
 
-* **Feb 19** - [The Web Applications Lab](labs/lab02a.html) is **now due for full credit by the end of Wednesday, 2-21-24, w/sign-off**.  Labs that were submitted on or before the original due date (Monday 2-19-24) and have been signed-off, will receive 10% extra credit per day, i.e., a submission w/sign-off on Friday, 2-16-24 will receive 40% extra credit, a submission w/sign-off on Monday, 2-19-24 will receive 10% extra credit.
+* **Feb 25** - [Assignment 5: Final Team Use Cases](assign/assign05.html) is **due by Noon, Sunday, 3-2-25**.  You will need them to continue your OOP Analysis, Design, and UML diagram in-class on Monday, 3-4-25.
 
-* **Feb 18** - [Assignment 5: Final Team Use Cases](assign/assign05.html) is **due by Noon, Sunday, 2-25-24**.  You will need them to continue your OOP Analysis, Design, and UML diagram in-class on Monday, 2-26-24.
+* **Feb 25** - [Assignment 5: Draft Team Use Cases](assign/assign05.html) is **due by start of class, Wednesday, 2-26-25**.  You will need your draft Use Cases for the in-class exercise for the Textual Analysis and to start the UML Design for your team project that day.
 
-* **Feb 18** - [Assignment 5: Draft Team Use Cases](assign/assign05.html) is **due by start of class, Friday, 2-23-24**.  You will need your draft Use Cases for the in-class exercise for the Textual Analysis and to start the UML Design for your team project that day.
+* **Feb 25** - Resubmissions of [Lab02a: Web Applications II](labs/lab02a.html) re due for full credit **after sign-off** at Noon, Friday, 3-7-25 in Marmoset.  Most of you failed the MVC portion of the lab.  For those of you who submitted good-faith attempts by the original due date after sign-off will still receive the 25% extra credit after fixing the issues pointed out in your gradesheets, sign-off, and resubmitting to Marmoset by the above due date. You **ARE** encouraged to work with your teammates to address the issues that were pointed out.
 
-* **Feb 11** - [Assignment 4: Individual Project Milestones](assign/assign04.html) **Individual Milestone 1: Baseline** is **due on Wednesday, 2-28-24**.  This will be an informal (at your desk) 3-4 minute (max) in-class demonstration of your progress, to date.
-
-
-* **Feb 6** - [Assign02: Individual Project Proposal](assign/assign02.html) is posted and the **due date has been moved to Noon, Sunday, 2-11-24**.
-
-* **Feb 6** - [Assign01: Team Project Proposal](assign/assign01.html) is posted and the **due date has been moved to 7:00am, Wednesday, 2-14-24**.
-
--->
+* **Feb 14** - [Assignment 4: Individual Project Milestones](assign/assign04.html) **Individual Milestone 1: Baseline** is **due on Friday, 2-28-25**.  This will be an informal (at your desk) 3-4 minute (max) in-class demonstration of your progress, to date.
 
 * **Feb 10** - Posted the [sign-off criteria for the Web Applications II lab](labs/lab02a-signoff-criteria.html).  The **minimum passing criteria** have been posted under the **Submission section** for the [Web Applications II lab](labs/lab02a.html).  Please review all of the criteria before asking your instructor or a tutor/mentor to sign-off on your **Lab02a** submission.  Also, a [lab sign-off sheet](labs/CS320-Lab02a-WebApplicationsII-LabSignOff.pdf) has been posted as a downloadeable PDF file.  **Please download and print this out so that you can use it as a check-off sheet when you get your lab sign-off.**
 
