@@ -58,7 +58,7 @@ Here are some examples of previous Team Project Use Case submissions:
 
 # Submitting your work
 
-Create a Google Doc for your group's Use Case document, and name it **assign05-www-xxx-yyy-zzz**, substituting the YCP user names of your project team members, **in alphabetical order**.  Place the Use Case document under your Google shared Group Project folder.
+Create a Google Doc for your group's Use Case document, and name it **assign05-www-xxx-yyy-zzz**, substituting the YCP user names of your project team members, **in alphabetical order**.  Place the Use Case document under your team's Google shared Group Project folder.
 
 Also save a PDF version of your Google document using the same naming format and submit it to Marmoset under the **Assign05: Team Final Use Cases** project.
 
