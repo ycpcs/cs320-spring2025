@@ -51,7 +51,7 @@ Here is the template for your [Team Project Proposal](CS320_Team_Project_Proposa
 Submitting
 ==========
 
-Have **one team member** create team's Google shared folder named "CS320-Sp25-Team-www-xxx-yyy-zzz", replacing "www-xxx-yyy-zzz" with the YCP user names of the members of your project team, **in alphabetical order**.  Share the folder and contents with your team **and with me.**
+Have **one team member** create your team's shared Google folder named "CS320-Sp25-Team-www-xxx-yyy-zzz", replacing "www-xxx-yyy-zzz" with the YCP user names of the members of your project team, **in alphabetical order**.  Share the folder and contents with your team **and with me.**
 
 This folder will be your means for creating and sharing all **non-programming-related team** assignments.
 
