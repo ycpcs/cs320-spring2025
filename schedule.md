@@ -30,9 +30,9 @@ Fri, Feb 28   | Individual Project Milestone 1:<br> **Baseline Prototype** | [As
 Mon, Mar 3   | Object-Oriented Design (OOD)<br>Team Project Session: UML (in class) | [Lecture 11: OO Design, OCP, LSP](lectures/lecture11.html)<br> [Design Principles and Design Patterns](lectures/lecture11/Principles_and_Patterns.pdf), Robert Martin, pages 1-12
 Wed, Mar 5    | Team Project Session: Analysis & Design Model, Team Git Set-Up, Team Milestone (all in-class) | [Lab 3: Git Lab Part II](./labs/lab03.html)
 Fri, Mar 7    | **Winter Break, no class**
-Mon, Mar 10    | Team Project Session: Analysis & Design Model, Team Git Set-Up, Team Milestone (all in-class) | [Lab 3: Git Lab Part II](./labs/lab03.html)
-Wed, Mar 12    | Team Project Session: Analysis & Design Model, Team Git Set-Up, Team Milestone (all in-class) | [Lab 3: Git Lab Part II](./labs/lab03.html)
-Fri, Mar 14   | Assign06: Team Problem Domain Submission Reviews |
+Mon, Mar 10   | Analysis & Design Model: How to Develop Your UML Diagram |
+Wed, Mar 12   | Team Project Session: Analysis & Design Model (in-class) |
+Fri, Mar 14   | Team Project Session: Analysis & Design Model (in-class) |
 Mon, Mar 17   | Team Project Session: Preparation for Team Milestone 1 Presentation (in-class)|
 Wed, Mar 19   | Team Project Session: Final preparation for Team Milestone 1 Presentation (in-class)|
 Fri, Mar 21   | Team Project Milestone 1:<br> **Minimal Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
