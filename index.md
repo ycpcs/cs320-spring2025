@@ -74,10 +74,10 @@ As such, some of the links below could return 404 Page Not Found Errors.  We wil
 
 * **Mar 10** - [Individual Project Milestone 2: 50% Working System](assign/assign04.html) is **due Monday, 3-24-25**.  This will be an informal (at your desk) 3-4 minute (max) in-class demonstration of your progress since Milestone 1.
 
-* **Mar 10** - [Team Project Milestone 1: Minimal Working System](assign/assign03.html) is due Friday, 3-21-25**.  This will be a FORMAL 12-15 minute (max) in-class team presentation/demonstration of your team's progress on your UI structure and navigation.  You should have the majority of your servlets and JSPs defined, and be able to navigate between most, if not all, of your pages.  Your HTML/CSS will still be in a rough state - don't worry about making it "pretty", focus on functionality over form.  There is **NO** expectation for having any of your SQL database implemented or working.  For the time being, if you want to persist user-entered data between your UI and your server, consider using the HTTP Session for that.
+* **Mar 10** - [Team Project Milestone 1: Minimal Working System](assign/assign03.html) is **due Friday, 3-21-25**.  This will be a FORMAL 12-15 minute (max) in-class team presentation/demonstration of your team's progress on your UI structure and navigation.  You should have the majority of your servlets and JSPs defined, and be able to navigate between most, if not all, of your pages.  Your HTML/CSS will still be in a rough state - don't worry about making it "pretty", focus on functionality over form.  There is **NO** expectation for having any of your SQL database implemented or working.  For the time being, if you want to persist user-entered data between your UI and your server, consider using the HTTP Session for that.
 
 
-* ** Mar 10** - [Assignment 6: Problem Domain Analysis](assign/assign06.html) is now **due by Noon, Sunday, 3-16-25.**
+* **Mar 10** - [Assignment 6: Problem Domain Analysis](assign/assign06.html) is now **due by Noon, Sunday, 3-16-25.**
 
 * **Feb 26** - I recommend using one of the following **free** tools for creating your UML diagrams for your group's UML model that will part of Assign06.  You may use other drawing tools, but whichever drawing tool you use, you **must be able to export PDF, PNG, or JPG versions of the UML diagram**, which you will then embed into your Assign06 submission:
 
