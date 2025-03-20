@@ -97,13 +97,34 @@ Emmett Larsen (CS320-Sp25 Tutor) came up with the following solution:
 
 These were the steps Emmett took to fix the following error message when trying to connect to localhost in the browser (Running windows 11). Error: " The absolute uri: http://java.sun.com/jstl/core cannot be resolved in either web.xml or the jar files deployed with this application"
 
+After doing this, the lab functioned as normal, and Emmett was able to submit forms successfully to the server.
+
+Here are my updated instructions for the JSTL fix:
+Instructions to fix JSTL error Eclipse:
+> Do steps above to ensure project is running using Java 1.8
+> Follow link https://tomcat.apache.org/download-taglibs.cgi
+> Find section labeled "Standard-1.2.5"
+> Under the sub-section "Source Code Distributions", click on the download labeled "zip"
+> This will download a zip file, open your downloads folder and unzip the file
+> This will create a folder called "taglibs-standard-1.2.5"
+> Copy this folder, then open Eclipse
+> Navigate the project directory to the WEB-INF folder
+> Right click the folder, and paste it
+> Now, navigate to the JSP files in the _view folder
+> At the top of each JSP, make sure the header on line 2 follows this format exactly: <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+> JSTL error should now be gone!
+
+<!-- Commenting out old instructions
+
 > 1. Ensure that Eclipse is running Java 1.8 in some fashion
 > 2. Go to [this link at Apache.org](https://tomcat.apache.org/download-taglibs.cgi) and download the zip file
 > 3. Unzip, and copy the folder "taglibs-standard-1.2.5" 
 > 4. Paste the folder into the WEB-INF folder 
 > 5. Open the XML files and add ' prefix="c" ' into tag header.
     Ex: "<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>"
+	
+	Here is some additional information on the issue.  I've previously looked into the issue, and came across this fairly involved post, which covers many types of different servers and scenarios.  It is not entirely helpful, but I am posting it here so that we can access it in the future: [absolute URI cannot be resolved](https://stackoverflow.com/questions/4928271/how-to-install-jstl-it-fails-with-the-absolute-uri-cannot-be-resolved-or-una)
 
-After doing this, the lab functioned as normal, and Emmett was able to submit forms successfully to the server.
+-->
 
-Here is some additional information on the issue.  I've previously looked into the issue, and came across this fairly involved post, which covers many types of different servers and scenarios.  It is not entirely helpful, but I am posting it here so that we can access it in the future: [absolute URI cannot be resolved](https://stackoverflow.com/questions/4928271/how-to-install-jstl-it-fails-with-the-absolute-uri-cannot-be-resolved-or-una)
+
