@@ -65,8 +65,6 @@ As such, some of the links below could return 404 Page Not Found Errors.  We wil
 
 * **Mar 19** - [Lab04: SQL, Queries, Joins](labs/lab04.html) is posted.  It is **due by 10:00am, Friday, 3-22-24**.  Make sure to use the template for your Lab04 submission. See the instructions on the Lab04 page.
 
-* **Mar 11** - [Team Project Milestone 1: Minimal Working System](assign/assign03.html) **has been moved to Friday, 3-15-24**.  This will be a FORMAL 10-12 minute (max) in-class team presentation/demonstration of your team's progress on your UI structure and navigation.  You should have the majority of your servlets and JSPs defined, and be able to navigate between most, if not all, of your pages.  Your HTML/CSS will still be in a rough state - don't worry about making it "pretty", focus on functionality over form.  There is **NO** expectation for having any of your SQL database implemented or working.  For the time being, if you want to persist user-entered data between your UI and your server, consider using the HTTP Session for that.
-
 
 -->
 
