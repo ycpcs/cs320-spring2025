@@ -82,41 +82,35 @@ After it is installed, you can then follow the above instructions to set the **J
 JSTL Issues
 =============
 
-Periodically, someone will come across this issue:
+Periodically, a student will come across this issue when initially trying to run Lab02 after installing their Eclipse-Java development environment:
 
 >	org.apache.jasper.JasperException: The absolute uri: http://java.sun.com/jsp/jstl/core cannot be resolved in either web.xml or the jar files deployed with this application
 
-Emmet Larsen (CS320-Sp25 Tutor) came up with the following solution:
+Emmet Larsen (CS320-Sp25 Tutor) came up with the following solution to fix the above JSTL issue:
 
-These were the steps Emmet took to fix the following error message when trying to connect to localhost in the browser (Running windows 11). Error: " The absolute uri: http://java.sun.com/jstl/core cannot be resolved in either web.xml or the jar files deployed with this application"
+* Verify that you have correctly installed the recommended Eclipse and Java versions, and that the project runs.
 
-After doing this, the lab functioned as normal, and Emmet was able to submit forms successfully to the server.
+* Follow this link https://tomcat.apache.org/download-taglibs.cgi
 
-Here are are Emmet's instructions for the JSTL fix:
+* Find section labeled "Standard-1.2.5"
 
-> 1. Verify that you have correctly installed the recommended Eclipse and Java versions, and that the project runs.
+* Under the sub-section "Source Code Distributions", click on the download labeled "zip"
 
-> 2. Follow this link https://tomcat.apache.org/download-taglibs.cgi
+* This will download a zip file, open your "Downloads" folder and unzip the file
 
-> 3. Find section labeled "Standard-1.2.5"
+* This will create a folder called **taglibs-standard-1.2.5**
 
-> 4. Under the sub-section "Source Code Distributions", click on the download labeled "zip"
+* Copy this folder, then open Eclipse
 
-> 5. This will download a zip file, open your "Downloads" folder and unzip the file
+* Navigate to the **WEB-INF** folder in the the project directory
 
-> 6. This will create a folder called **taglibs-standard-1.2.5**
+* Right click the **WEB-INF** folder, and then paste the folder you just copied
 
-> 7. Copy this folder, then open Eclipse
+* Now, navigate to the JSP files in the **_view** folder
 
-> 8. Navigate to the **WEB-INF** folder in the the project directory
+* At the top of each JSP, make sure the header on line 2 follows this format exactly: <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 
-> 9. Right click the **WEB-INF** folder, and then paste the folder you just copied
-
-> 10. Now, navigate to the JSP files in the **_view** folder
-
-> 11. At the top of each JSP, make sure the header on line 2 follows this format exactly: <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
-
-> 12. Restart your server and the run the project.  The JSTL error should now be gone!
+* Restart your server and the run the project.  The JSTL error should now be gone!
 
 
 Troubleshooting Installation/Run-Time Issues
