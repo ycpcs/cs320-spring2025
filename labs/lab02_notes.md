@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Notes for Lab 2: Guessing Game WebApp"
+title: "Installing and Troubleshooting the CS320 Lab Development Environment"
 ---
 
-Determining the JRE System Library
-==================================
+Instructions for Installing Eclipse and Java
+============================================
 
 These instructions are for **Eclipse 2024-12 IDE for Enterprise Java and Web Developers** (which will be installed on the PCs in KEC 119 and KEC 123).  The instructions will be similar for other versions of Eclipse - but there might be some slight differences.
 
@@ -79,52 +79,54 @@ If you do not find the **jdk-1.8.0.442.6-hotspot** installed on your computer, y
 After it is installed, you can then follow the above instructions to set the **JRE System Library** to the JDK you just installed.  You can then return to the instructions above for importing the **CS320\_Lab02** projects.
 
 
-Other Issues
-============
+Troubleshooting Installation/Run-Time Issues
+============================================
 There are some other issues that have been popping up with **CS320\_Lab02**.
 
-* For some unknown reason, the **CS320\_Lab02.zip** file might be protected, and Eclipse won't let you import it.  Let me know if this continues to happen - I think this is fixed with the latest ZIP file.  You may need to log all users off the lab PC you are working on before proceeding.
+* For an unknown reason, the **CS320\_Lab02.zip** file might be protected, and Eclipse won't let you import it.  Let me know if this continues to happen - I think this is fixed with the latest ZIP file.  You may need to log all users off the lab PC you are working on before proceeding.
 
 * When you start Eclipse on the lab PCs, Windows might warn you about running a program that was downloaded from the Internet.  You can ignore this and move on.
 
 * When you go to run **main()** in the **CS320\_Lab02** project, you might get a Windows Firewall warning.  You can generally hit **Cancel** and the lab will work.  if it doesn't, you might need to make changes to your specific Windows (or other) firewall settings.
 
-* Periodically, someone will come across this issue:
+* JSTL Issues
+=============
+
+Periodically, someone will come across this issue:
 
 >	org.apache.jasper.JasperException: The absolute uri: http://java.sun.com/jsp/jstl/core cannot be resolved in either web.xml or the jar files deployed with this application
 
-Emmett Larsen (CS320-Sp25 Tutor) came up with the following solution:
+Emmet Larsen (CS320-Sp25 Tutor) came up with the following solution:
 
-These were the steps Emmett took to fix the following error message when trying to connect to localhost in the browser (Running windows 11). Error: " The absolute uri: http://java.sun.com/jstl/core cannot be resolved in either web.xml or the jar files deployed with this application"
+These were the steps Emmet took to fix the following error message when trying to connect to localhost in the browser (Running windows 11). Error: " The absolute uri: http://java.sun.com/jstl/core cannot be resolved in either web.xml or the jar files deployed with this application"
 
-After doing this, the lab functioned as normal, and Emmett was able to submit forms successfully to the server.
+After doing this, the lab functioned as normal, and Emmet was able to submit forms successfully to the server.
 
-Here are my updated instructions for the JSTL fix:
-Instructions to fix JSTL error Eclipse:
+Here are are Emmet's instructions for the JSTL fix:
 
-> 1.Do steps above to ensure project is running using Java 1.8
+> 1. Verify that you have correctly installed the recommended Eclipse and Java versions, and that the project runs.
 
-> 2. Follow link https://tomcat.apache.org/download-taglibs.cgi
+> 2. Follow this link https://tomcat.apache.org/download-taglibs.cgi
 
 > 3. Find section labeled "Standard-1.2.5"
 
 > 4. Under the sub-section "Source Code Distributions", click on the download labeled "zip"
 
-> 5. This will download a zip file, open your downloads folder and unzip the file
+> 5. This will download a zip file, open your "Downloads" folder and unzip the file
 
-> 6. This will create a folder called "taglibs-standard-1.2.5"
+> 6. This will create a folder called **taglibs-standard-1.2.5**
 
 > 7. Copy this folder, then open Eclipse
 
-> 8. Navigate the project directory to the WEB-INF folder
+> 8. Navigate to the **WEB-INF** folder in the the project directory
 
-> 9. Right click the folder, and paste it
+> 9. Right click the **WEB-INF** folder, and then paste the folder you just copied
 
-> 10. Now, navigate to the JSP files in the _view folder
+> 10. Now, navigate to the JSP files in the **_view** folder
 
 > 11. At the top of each JSP, make sure the header on line 2 follows this format exactly: <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 
-> 12. The JSTL error should now be gone!
+> 12. Restart your server and the run the project.  The JSTL error should now be gone!
 
 <!-- Commenting out old instructions
 
