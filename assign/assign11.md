@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 11: Team Project Self / Peer Evaluation"
 ---
 
-**DUE: There are two self / peer evaluations forms due this semester: the first following Team Milestone 2, and the second a week before the final Team Project presentation and demo.  [See Assignment Schedule](index.html)**
+**DUE: There are two self / peer evaluations forms due this semester: the first following Team Milestone 1, and the second a week before the final Team Project presentation and demo.  [See Assignment Schedule](index.html)**
 
 This is an **individual** assignment
 
@@ -15,11 +15,13 @@ Use this form to evaluate and rank the contributions of you and your team member
 
 You must also rank and rate all of the team projects that are being developed in your section.
 
-# Project Self Reflection
+# Project Self Reflection (Final Peer Evals ONLY)
 
-You will also be using the same form to submit your [Assignment 10: Team Project Self Reflection](assign10.html).
+For your **final peer evaluation submission**, you will also be using the same form to submit your [Assignment 10: Team Project Self Reflection](assign10.html).
 
 You will fill out and submit both assignments in that form at the same time.
+
+**NOTE:** You do NOT need to fill out the Project Self Reflection for your Mid-Semester Peer Evaluations - **it is only due in combination with your Final Peer Evaluation submission.**
 
 # Submitting
 
