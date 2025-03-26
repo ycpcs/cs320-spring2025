@@ -61,7 +61,7 @@ As such, some of the links below could return 404 Page Not Found Errors.  We wil
 
 * **Mar 25** - [Lab06: ORM](labs/lab06.html) is posted.  It is due **Noon, Wednesday, 4-9-25**.  You **ARE** now allowed to work with your team members on Lab06 - **BUT the solution and code must be YOUR OWN.**
 
-* **Mar 25** - [Team Project Milestone 2: 50% Working System](assign/assign03.html) is **due Monday, 4-4-25**.  This will be a FORMAL 12-14 minute (max) in-class team presentation/demonstration of your team's progress since milestone 1.  You are **required to have some fake hard-coded data** to demonstrate your basic functionality.  SQL database functionality is **NOT** required for this milestone (but **IS** required for the third milestone.)
+* **Mar 25** - [Team Project Milestone 2: 50% Working System](assign/assign03.html) is **due Friday, 4-4-25**.  This will be a FORMAL 12-14 minute (max) in-class team presentation/demonstration of your team's progress since milestone 1.  You are **required to have some fake hard-coded data** to demonstrate your basic functionality.  SQL database functionality is **NOT** required for this milestone (but **IS** required for the third milestone.)
 
 * **Mar 25** - [Lab05: JDBC](labs/lab05.html) is posted.  It is **due by Noon,  Monday, 3-31-25**.
 
