@@ -49,24 +49,23 @@ As such, some of the links below could return 404 Page Not Found Errors.  We wil
 
 * **Apr 7** - Posted an extensive example project on the [Resources page](./resources) that incorporates the Web Applications lab solution (Lab02) with the ORM Lab solution (Lab06).  It provides a web application front-end to the ORM queries, as well as demonstrates the use of login session information, and incorporation of a SQL database persistence layer with a many-to-many relationship. We will review this in more depth in class on **Wednesday, 4-10-24**.
 
-* **Mar 27** - [Assignment 9](assign/assign09.html) describes the deliverables for the individual project.  Your individual project report is due **Wednesday, 4-10-24, by 10:00am** in PDF form in Marmoset.
-
-* **Mar 27** - [Individual Project Milestone 3](assign/assign04.html) is due **Monday, 4-8-24**.  This will be your final informal (at your desk) 2-4 minute (max) in-class demonstration of your final individual project.
-
 * **Mar 27** - [Lab06: ORM](labs/lab06.html) due date has been modified.  Passing submissions received by **Noon, Tuesday, 4-2-24 will receive 50% extra credit**.  Passing submissions received by **Noon, Thursday, 4-4-24 will receive 25% extra credit**.  Passing submissions received by **Noon, Sunday, 4-7-24 will receive full credit**.  You **ARE** allowed to work with your team members on Lab06 - **BUT the submitted solution and code must be YOUR OWN.**
 
-* **Mar 26** - A solution to [Lab05: JDBC](labs/lab05.html) has been posted to the [Resources page](./resources), so that you can have a common code base to work from for [Lab06: ORM](labs/lab06.html).  No submissions for Lab05 will be accepted for credit now that the Lab05 solution has been posted.
-
-* **Mar 19** - [Lab06: ORM](labs/lab06.html) is posted.  It is due **Noon, Tuesday, 4-2-24**.  You **ARE** now allowed to work with your team members on Lab06 - **BUT the solution and code must be YOUR OWN.**
-
-* **Mar 19** - [Team Project Milestone 2: 50% Working System](assign/assign03.html) is **due Wednesday, 3-27-24**.  This will be a FORMAL 12-14 minute (max) in-class team presentation/demonstration of your team's progress since milestone 1.  You are **required to have some fake hard-coded data** to demonstrate your basic functionality.  SQL database functionality is **NOT** required for this milestone (but **IS** required for the third milestone.)
-
-* **Mar 19** - [Lab05: JDBC](labs/lab05.html) is posted.  It is **due by 10:00am,  Monday, 3-25-24**.
-
-* **Mar 19** - [Lab04: SQL, Queries, Joins](labs/lab04.html) is posted.  It is **due by 10:00am, Friday, 3-22-24**.  Make sure to use the template for your Lab04 submission. See the instructions on the Lab04 page.
-
+* **Mar 31** - A solution to [Lab05: JDBC](labs/lab05.html) has been posted to the [Resources page](./resources), so that you can have a common code base to work from for [Lab06: ORM](labs/lab06.html).  No submissions for Lab05 will be accepted for credit now that the Lab05 solution has been posted.
 
 -->
+
+* **Mar 25** - [Assignment 9](assign/assign09.html) describes the deliverables for the individual project.  Your individual project report is due **Wednesday, 4-16-25, by Noon** in PDF form in Marmoset.
+
+* **Mar 25** - [Individual Project Milestone 3](assign/assign04.html) is due **Monday, 4-14-25**.  This will be your final informal (at your desk) 2-4 minute (max) in-class demonstration of your final individual project.
+
+* **Mar 25** - [Lab06: ORM](labs/lab06.html) is posted.  It is due **Noon, Wednesday, 4-9-25**.  You **ARE** now allowed to work with your team members on Lab06 - **BUT the solution and code must be YOUR OWN.**
+
+* **Mar 25** - [Team Project Milestone 2: 50% Working System](assign/assign03.html) is **due Monday, 4-4-25**.  This will be a FORMAL 12-14 minute (max) in-class team presentation/demonstration of your team's progress since milestone 1.  You are **required to have some fake hard-coded data** to demonstrate your basic functionality.  SQL database functionality is **NOT** required for this milestone (but **IS** required for the third milestone.)
+
+* **Mar 25** - [Lab05: JDBC](labs/lab05.html) is posted.  It is **due by Noon,  Monday, 3-31-25**.
+
+* **Mar 25** - [Lab04: SQL, Queries, Joins](labs/lab04.html) is posted.  It is **due by Noon, Friday, 3-28-25**.  Make sure to use the template for your Lab04 submission. See the instructions on the Lab04 page.
 
 * **Mar 18** - Mid-semester self/peer evaluations are **due by noon, Tuesday, 3-25-25**.  See the instructions under [Assignment 11](assign/assign11.html).
 
