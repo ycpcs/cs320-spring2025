@@ -45,7 +45,7 @@ Fri, Apr 4    | Team Project Milestone 2:<br> **Progress on Navigation & Feature
 Sat, Apr 5   | Team Project Mid-Semester Self / Peer Evaluations Due | [Assignment 11: Team Project Self / Peer Evaluation](assign/assign11.html)
 Mon, Apr 7    | Work Ethic Lecture (and Hake's Famous Failures) |
 Wed, Apr 9    | ORM Lab06 Review and Questions |
-Fri, Apr 11   | DORM and SQL Database Questions, SQL DB Testing |
+Fri, Apr 11   | ORM and SQL Database Questions, SQL DB Testing |
 Mon, Apr 14    | Individual Project Milestone 3:<br> **FINAL PROJECT DEMO** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Wed, Apr 16   | Library Example Project Analysis & Review | Located near the bottom of the [Resources Page](resources/index.html)
 Fri, Apr 18   | **Spring Break, no class**
