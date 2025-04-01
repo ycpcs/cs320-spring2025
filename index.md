@@ -47,13 +47,13 @@ As such, some of the links below could return 404 Page Not Found Errors.  We wil
 
 * **Apr 7** - [Team Project Milestone 3: 75% Working System, w/SQL DB](assign/assign03.html) is **due Monday, 4-22-24**.  This will be a FORMAL 12-14 minute (max) team presentation/demonstration of your team's progress since milestone 2.  SQL database functionality **IS REQUIRED** for this milestone.  A large majority of your classes, methods, test cases, and web page navigation should be implemented by milestone 3, as well.  If you do not have substantial test case coverage, your team will receive a Below Expectations assessment.
 
-* **Apr 7** - Posted an extensive example project on the [Resources page](./resources) that incorporates the Web Applications lab solution (Lab02) with the ORM Lab solution (Lab06).  It provides a web application front-end to the ORM queries, as well as demonstrates the use of login session information, and incorporation of a SQL database persistence layer with a many-to-many relationship. We will review this in more depth in class on **Wednesday, 4-10-24**.
+* **Apr 14** - Posted an extensive example project on the [Resources page](./resources) that incorporates the Web Applications lab solution (Lab02) with the ORM Lab solution (Lab06).  It provides a web application front-end to the ORM queries, as well as demonstrates the use of login session information, and incorporation of a SQL database persistence layer with a many-to-many relationship. We will review this in more depth in class.
 
-* **Mar 27** - [Lab06: ORM](labs/lab06.html) due date has been modified.  Passing submissions received by **Noon, Tuesday, 4-2-24 will receive 50% extra credit**.  Passing submissions received by **Noon, Thursday, 4-4-24 will receive 25% extra credit**.  Passing submissions received by **Noon, Sunday, 4-7-24 will receive full credit**.  You **ARE** allowed to work with your team members on Lab06 - **BUT the submitted solution and code must be YOUR OWN.**
-
-* **Mar 31** - A solution to [Lab05: JDBC](labs/lab05.html) has been posted to the [Resources page](./resources), so that you can have a common code base to work from for [Lab06: ORM](labs/lab06.html).  No submissions for Lab05 will be accepted for credit now that the Lab05 solution has been posted.
+* **Apr 7** - [Lab06: ORM](labs/lab06.html) due date has been modified.  Passing submissions received by **Noon, Wednesday, 4-9-25 will receive 50% extra credit**.  Passing submissions received by **Noon, Friday, 4-11-25 will receive 25% extra credit**.  Passing submissions received by **Noon, Sunday, 4-13-25 will receive full credit**.  You **ARE** allowed to work with your team members on Lab06 - **BUT the submitted solution and code must be YOUR OWN.**
 
 -->
+
+* **Mar 31** - A solution to [Lab05: JDBC](labs/lab05.html) has been posted to the [Resources page](./resources), so that you can have a common code base to work from for [Lab06: ORM](labs/lab06.html).  No submissions for Lab05 will be accepted for credit now that the Lab05 solution has been posted.
 
 * **Mar 25** - [Assignment 9](assign/assign09.html) describes the deliverables for the individual project.  Your individual project report is due **Wednesday, 4-16-25, by Noon** in PDF form in Marmoset.
 
