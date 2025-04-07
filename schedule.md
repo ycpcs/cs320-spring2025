@@ -44,12 +44,12 @@ Wed, Apr 2    | Team Project Session: Final Preparation for Team Milestone 2 Pre
 Fri, Apr 4    | Team Project Milestone 2:<br> **Progress on Navigation & Features** | [Assignment 3: Team Project Milestones](assign/assign03.html)<br>
 Mon, Apr 7    | SQL / JDBC / ORM Labs Review |
 Wed, Apr 9    | ORM and SQL Database Questions, SQL DB Testing |
-Fri, Apr 11   | Work Ethic Lecture (featuring Professor Hake's Famous Failures) |
+Fri, Apr 11   | Testing and Code Coverage <br><br> Ensuring Code Quality | [Lecture 16: Testing](lectures/lecture16.html) <br><br> [Lecture 17: Ensuring Code Quality](lectures/lecture17.html)
 Mon, Apr 14   | Individual Project Milestone 3:<br> **FINAL PROJECT DEMO** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Wed, Apr 16   | Library Example Project Analysis & Review | Located near the bottom of the [Resources Page](resources/index.html)
 Fri, Apr 18   | **Spring Break, no class**
 Mon, Apr 21   | **Spring Break, no class**
-Wed, Apr 23   | Testing and Code Coverage <br><br> Ensuring Code Quality | [Lecture 16: Testing](lectures/lecture16.html) <br><br> [Lecture 17: Ensuring Code Quality](lectures/lecture17.html)
+Wed, Apr 23   | Team Project Work Session (in-class) |  
 Fri, Apr 25   | Team Project Work Session (in-class) | 
 Mon, Apr 28   | Team Project Milestone 3:<br> **75% Working System w/working SQL DB** | [Assignment 3: Team Project Milestones](assign/assign03.html)
 Wed, Apr 30   | Team Project Work Session (in-class) |

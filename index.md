@@ -49,9 +49,9 @@ As such, some of the links below could return 404 Page Not Found Errors.  We wil
 
 * **Apr 14** - Posted an extensive example project on the [Resources page](./resources) that incorporates the Web Applications lab solution (Lab02) with the ORM Lab solution (Lab06).  It provides a web application front-end to the ORM queries, as well as demonstrates the use of login session information, and incorporation of a SQL database persistence layer with a many-to-many relationship. We will review this in more depth in class.
 
-* **Apr 7** - [Lab06: ORM](labs/lab06.html) due date has been modified.  Passing submissions received by **Noon, Wednesday, 4-9-25 will receive 50% extra credit**.  Passing submissions received by **Noon, Friday, 4-11-25 will receive 25% extra credit**.  Passing submissions received by **Noon, Sunday, 4-13-25 will receive full credit**.  You **ARE** allowed to work with your team members on Lab06 - **BUT the submitted solution and code must be YOUR OWN.**
-
 -->
+
+* **Apr 7** - [Lab06: ORM](labs/lab06.html) due date has been modified.  Passing submissions received by **Noon, Wednesday, 4-9-25 will receive 50% extra credit**.  Passing submissions received by **Noon, Friday, 4-11-25 will receive 25% extra credit**.  Passing submissions received by **Noon, Sunday, 4-13-25 will receive full credit**.  You **ARE** allowed to work with your team members on Lab06 - **BUT** the submitted solution and code must be **YOUR OWN**.  **After Noon on Sunday, 4-13-25, WE WILL ACCEPT NO EXCUSES FOR LATE/INCOMPLETE SUBMISSIONS - A 5% COURSE GRADE DEDUCTION WILL BE IMPOSED.**
 
 * **Mar 31** - A solution to [Lab05: JDBC](labs/lab05.html) has been posted to the [Resources page](./resources), so that you can have a common code base to work from for [Lab06: ORM](labs/lab06.html).  No submissions for Lab05 will be accepted for credit now that the Lab05 solution has been posted.
 
