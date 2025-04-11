@@ -118,6 +118,12 @@ CS320 Lab05 (JDBC) Solution will be posted here shortly after the final submissi
 [CS320\_Lab05\_Solution-2023.zip](CS320_Lab05_Solution-2023.zip): A solution for the JDBC lab (Lab05).  You can import this into the same workspace as your Lab05 solution, as the solution project is named **CS320\_Lab05\_Solution-2023**.  Please compare your solution to this code, and make any necessary changes in your code, as an exercise to further understand the material.  There are plenty of comments included in the solution to describe what is happening and why it is being done.
 
 
+CS320 Functor Demo
+==================
+
+[CS320\_FunctorDemo.zip](CS320\_FunctorDemo.zip): A brief example showing how to make multiple functors to use to sort a sample **String** array list. 
+
+
 CS320 Library Example Project will be posted here shortly after the final submission date for Lab06 (see lab schedule)
 =============================
 
