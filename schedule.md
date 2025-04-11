@@ -37,20 +37,19 @@ Mon, Mar 17   | Team Project Session: Preparation for Team Milestone 1 Presentat
 Wed, Mar 19   | Team Project Session: Final preparation for Team Milestone 1 Presentation (in-class)|
 Fri, Mar 21   | Team Project Milestone 1:<br> **Minimal Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
 Mon, Mar 24   | Individual Project Milestone 2:<br> **50% Progress** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
-Wed, Mar 26   | Relational Databases <br> SQL Lab Assigned <br> Database Applications - JDBC <br> JDBC Lab Assigned | [Lecture 13: Relational Databases](lectures/lecture13.html) <br> [Lab 4: SQL Lab](./labs/lab04.html) <br> [Lecture 14: Database Applications, JDBC](lectures/lecture14.html) <br> [Lab 5: JDBC Lab](./labs/lab05.html)
-Fri, Mar 28   | Database Applications - ORM <br> ORM Lab Assigned | [Lecture 15: ORM, Designing a Persistence Layer](lectures/lecture15.html)<br> [Lab 6: ORM Lab](./labs/lab06.html)
-Mon, Mar 31   | SQL / JDBC / ORM Labs Review |
-Wed, Apr2     | Team Project Session: Final Preparation for Team Milestone 2 Presentation (in-class)
+Wed, Mar 26   | Relational Databases <br> SQL Lab Assigned | [Lecture 13: Relational Databases](lectures/lecture13.html) <br> [Lab 4: SQL Lab](./labs/lab04.html)
+Fri, Mar 28   | Database Applications - JDBC <br> JDBC Lab Assigned | [Lecture 14: Database Applications, JDBC](lectures/lecture14.html) <br> [Lab 5: JDBC Lab](./labs/lab05.html)
+Mon, Mar 31   | Database Applications - ORM <br> ORM Lab Assigned | [Lecture 15: ORM, Designing a Persistence Layer](lectures/lecture15.html)<br> [Lab 6: ORM Lab](./labs/lab06.html)
+Wed, Apr 2    | Team Project Session: Final Preparation for Team Milestone 2 Presentation (in-class)
 Fri, Apr 4    | Team Project Milestone 2:<br> **Progress on Navigation & Features** | [Assignment 3: Team Project Milestones](assign/assign03.html)<br>
-Sat, Apr 5   | Team Project Mid-Semester Self / Peer Evaluations Due | [Assignment 11: Team Project Self / Peer Evaluation](assign/assign11.html)
-Mon, Apr 7    | Work Ethic Lecture (and Hake's Famous Failures) |
-Wed, Apr 9    | ORM Lab06 Review and Questions |
-Fri, Apr 11   | ORM and SQL Database Questions, SQL DB Testing |
-Mon, Apr 14    | Individual Project Milestone 3:<br> **FINAL PROJECT DEMO** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
+Mon, Apr 7    | SQL / JDBC / ORM Labs Review |
+Wed, Apr 9    | ORM and SQL Database Questions, SQL DB Testing |
+Fri, Apr 11   | Testing and Code Coverage <br><br> Ensuring Code Quality | [Lecture 16: Testing](lectures/lecture16.html) <br><br> [Lecture 17: Ensuring Code Quality](lectures/lecture17.html)
+Mon, Apr 14   | Individual Project Milestone 3:<br> **FINAL PROJECT DEMO** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Wed, Apr 16   | Library Example Project Analysis & Review | Located near the bottom of the [Resources Page](resources/index.html)
 Fri, Apr 18   | **Spring Break, no class**
 Mon, Apr 21   | **Spring Break, no class**
-Wed, Apr 23   | Testing and Code Coverage <br><br> Ensuring Code Quality | [Lecture 16: Testing](lectures/lecture16.html) <br><br> [Lecture 17: Ensuring Code Quality](lectures/lecture17.html)
+Wed, Apr 23   | Team Project Work Session (in-class) |  
 Fri, Apr 25   | Team Project Work Session (in-class) | 
 Mon, Apr 28   | Team Project Milestone 3:<br> **75% Working System w/working SQL DB** | [Assignment 3: Team Project Milestones](assign/assign03.html)
 Wed, Apr 30   | Team Project Work Session (in-class) |

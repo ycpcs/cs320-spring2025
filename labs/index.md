@@ -27,15 +27,16 @@ Friday, 2-14-25 (in-class, ungraded, no submission) | [Lab 2](lab02.html) | [CS3
 Saturday, 2-22-25, by Noon, w/sign-off (Marmoset) | [Lab 2a: Web Applications II](lab02a.html) | [CS320\_Lab02.zip](CS320_Lab02.zip)<br> [CS320\_Jetty9.zip](CS320_Jetty9.zip)
 Friday, 3-28-25, by Noon (Marmoset) | [Lab 4: SQL Queries & Joins](lab04.html) | [CS320\_Lab04.zip](CS320_Lab04.zip), [CS320\_Derby.zip](CS320_Derby.zip)
 Monday, 3-31-25, by Noon (Marmoset) | [Lab 5: JDBC](lab05.html) | [CS320\_Lab05.zip](CS320_Lab05.zip)
-Wednesday, 4-9-25, by Noon (Marmoset) | [Lab 6: ORM](lab06.html) | [CS320\_Lab06.zip](CS320_Lab06.zip)
+Wednesday, 4-9-25, by Noon 150% credit (Marmoset)<br>Friday, 4-11-25, by Noon 125% credit (Marmoset)<br>Sunday, 4-13-25, by Noon 100% credit (Marmoset) | [Lab 6: ORM](lab06.html) | [CS320\_Lab06.zip](CS320_Lab06.zip)
 
 All of the above labs, with the exception of Lab03 (Git Lab) are to be completed individually. I encourage you to discuss high level concepts and strategies with other students, but any work you submit **must be yours alone**.
 
 The exception to the above policy is that you may use ChatGPT (or any other similar service) for Lab00 (Using ChatGPT), Lab01 (HTML/CSS Resume), Lab02 and Lab02a (Web Applications Labs).  **You may NOT use ChatGPT for any of the SQL Labs (Lab04, Lab05, Lab06).**
 
-<!-- Commenting this out until we know what we're doing
-
 **NOTE:** After further consideration, I have decided that team members **ARE** allowed to work together on the **ORM Lab (Lab06)**.  However, you must provide your own solution, and submit your own code.
+
+
+<!-- Commenting this out until we know what we're doing
 
 -->
 
