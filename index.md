@@ -37,19 +37,19 @@ As such, some of the links below could return 404 Page Not Found Errors.  We wil
 
 <!-- Commenting out News until it's needed - and the dates will change, anyway
 
-* **Apr 26** - [Assignment 8](assign/assign08.html) describes the final deliverables for the team project.  There are several - please read the assignment carefully.  The team project final report is **due by Noon, Thursday, 5-9-24 in PDF form in Marmoset**.  Please have only one team member submit the report.
+* **Apr 28** - [Assignment 8](assign/assign08.html) describes the final deliverables for the team project (Final Code submission in your GitHub repo and the FInal Team Project Report - please read the assignment carefully.  The team project final report is **due by Noon, Thursday, 5-15-25 in PDF form in Marmoset**.  Please have only one team member submit the report.
 
-* **Apr 22** - [Team Project Final Presentation and Demonstration](assign/assign08.html) is scheduled for each section's final exam period.  These will be 30 minute (section 101) to 45 minute (section 102) formal presentations.  See [Assignment 8](assign/assign08.html) for the details and guidelines.
-	- **10:00a section (101) - 10:15a to 12:15p on Monday, 5-6-24**
-	- **1:00p section (102) - 12:45p to 2:45p on Wednesday, 5-8-24**
+* **Apr 28** - [Team Project Final Presentation and Demonstration](assign/assign08.html) is scheduled for each section's final exam period.  These will be 30 minute formal presentations.  See [Assignment 8](assign/assign08.html) for the details and guidelines.
+	- **2:00p section (101) - 3:00p to 5:00p on Monday, 5-12-25**
+	- **3:00p section (102) - 3:00p to 5:00p on Wednesday, 5-14-25**
 
-* **Apr 22** - [Assignment 10](assign/assign10.html) is an individual reflection on the team project.  [Assignment 11](assign/assign11.html) is the final self/peer evaluation for the team project.  They are both INDIVIDUAL assignments, combined into one form, and are **due by noon, Sunday, 4-28-24 in PDF form in Marmoset**.
-
-* **Apr 7** - [Team Project Milestone 3: 75% Working System, w/SQL DB](assign/assign03.html) is **due Monday, 4-22-24**.  This will be a FORMAL 12-14 minute (max) team presentation/demonstration of your team's progress since milestone 2.  SQL database functionality **IS REQUIRED** for this milestone.  A large majority of your classes, methods, test cases, and web page navigation should be implemented by milestone 3, as well.  If you do not have substantial test case coverage, your team will receive a Below Expectations assessment.
-
-* **Apr 14** - Posted an extensive example project on the [Resources page](./resources) that incorporates the Web Applications lab solution (Lab02) with the ORM Lab solution (Lab06).  It provides a web application front-end to the ORM queries, as well as demonstrates the use of login session information, and incorporation of a SQL database persistence layer with a many-to-many relationship. We will review this in more depth in class.
+* **Apr 28** - [Assignment 10](assign/assign10.html) is an individual reflection on the team project.  [Assignment 11](assign/assign11.html) is the final self/peer evaluation for the team project.  They are both INDIVIDUAL assignments, combined into one form, and are **due by noon, Sunday, 5-10-25 in PDF form in Marmoset**.
 
 -->
+
+* **Apr 16** - [Team Project Milestone 3: 75% Working System, w/SQL DB](assign/assign03.html) is **due Monday, 4-28-25**.  This will be a FORMAL 12-14 minute (max) team presentation/demonstration of your team's progress since milestone 2.  SQL database functionality **IS REQUIRED** for this milestone.  A large majority of your classes, methods, test cases, and web page navigation should be implemented by milestone 3, as well.  If you do not have substantial test case coverage, your team will receive a Below Expectations assessment.
+
+* **Apr 16** - Posted an extensive example project on the [Resources page](./resources) that incorporates the Web Applications lab solution (Lab02) with the ORM Lab solution (Lab06).  It provides a web application front-end to the ORM queries, as well as demonstrates the use of login session information, and incorporation of a SQL database persistence layer with a many-to-many relationship. We will review this in more depth in class.
 
 * **Apr 7** - [Lab06: ORM](labs/lab06.html) due date has been modified.  Passing submissions received by **Noon, Wednesday, 4-9-25 will receive 50% extra credit**.  Passing submissions received by **Noon, Friday, 4-11-25 will receive 25% extra credit**.  Passing submissions received by **Noon, Sunday, 4-13-25 will receive full credit**.  You **ARE** allowed to work with your team members on Lab06 - **BUT** the submitted solution and code must be **YOUR OWN**.  **After Noon on Sunday, 4-13-25, WE WILL ACCEPT NO EXCUSES FOR LATE/INCOMPLETE SUBMISSIONS - A 5% COURSE GRADE DEDUCTION WILL BE IMPOSED.**
 
