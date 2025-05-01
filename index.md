@@ -35,17 +35,15 @@ As such, some of the links below could return 404 Page Not Found Errors.  We wil
 
 ## News
 
-<!-- Commenting out News until it's needed - and the dates will change, anyway
+<!-- Commenting out News until it's needed - and the dates will change, anyway -->
 
-* **Apr 28** - [Assignment 8](assign/assign08.html) describes the final deliverables for the team project (Final Code submission in your GitHub repo and the FInal Team Project Report - please read the assignment carefully.  The team project final report is **due by Noon, Thursday, 5-15-25 in PDF form in Marmoset**.  Please have only one team member submit the report.
+* **Apr 28** - [Assignment 8](assign/assign08.html) describes the final deliverables for the team project (Final Code submission in your GitHub repo and the Final Team Project Report - please read the assignment carefully.  The team project final report is **due by Noon, Thursday, 5-15-25 in PDF form in Marmoset**.  Please have only one team member submit the report.
 
 * **Apr 28** - [Team Project Final Presentation and Demonstration](assign/assign08.html) is scheduled for each section's final exam period.  These will be 30 minute formal presentations.  See [Assignment 8](assign/assign08.html) for the details and guidelines.
 	- **2:00p section (101) - 3:00p to 5:00p on Monday, 5-12-25**
 	- **3:00p section (102) - 3:00p to 5:00p on Wednesday, 5-14-25**
 
-* **Apr 28** - [Assignment 10](assign/assign10.html) is an individual reflection on the team project.  [Assignment 11](assign/assign11.html) is the final self/peer evaluation for the team project.  They are both INDIVIDUAL assignments, combined into one form, and are **due by noon, Sunday, 5-10-25 in PDF form in Marmoset**.
-
--->
+* **Apr 28** - [Assignment 10](assign/assign10.html) is an individual reflection on the team project.  [Assignment 11](assign/assign11.html) is the final self/peer evaluation for the team project.  They are both INDIVIDUAL assignments, combined into one form, and are **due by noon, Saturday, 5-10-25 in PDF form in Marmoset**.
 
 * **Apr 16** - [Team Project Milestone 3: 75% Working System, w/SQL DB](assign/assign03.html) is **due Monday, 4-28-25**.  This will be a FORMAL 12-14 minute (max) team presentation/demonstration of your team's progress since milestone 2.  SQL database functionality **IS REQUIRED** for this milestone.  A large majority of your classes, methods, test cases, and web page navigation should be implemented by milestone 3, as well.  If you do not have substantial test case coverage, your team will receive a Below Expectations assessment.
 
